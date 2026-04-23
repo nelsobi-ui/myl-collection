@@ -2,36 +2,36 @@
   {
     "id": "dominios_de_ra",
     "name": "Dominios de Ra",
-    "logoUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/logos/dominios_de_ra.png",
-    "dataUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/data/dominios_de_ra.json",
-    "imagesBaseUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/dominios_de_ra",
+    "logoUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/logos/dominios_de_ra.png",
+    "dataUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/data/dominios_de_ra.json",
+    "imagesBaseUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/dominios_de_ra",
     "cardCount": 236,
     "accentHex": "#D4AF37"
   },
   {
     "id": "espada_sagrada",
     "name": "Espada Sagrada",
-    "logoUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/logos/espada_sagrada.png",
-    "dataUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/data/espada_sagrada.json",
-    "imagesBaseUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/espada_sagrada",
+    "logoUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/logos/espada_sagrada.png",
+    "dataUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/data/espada_sagrada.json",
+    "imagesBaseUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/espada_sagrada",
     "cardCount": 0,
     "accentHex": "#4A90D9"
   },
   {
     "id": "hijos_de_daana",
     "name": "Hijos de Daana",
-    "logoUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/logos/hijos_de_daana.png",
-    "dataUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/data/hijos_de_daana.json",
-    "imagesBaseUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/hijos_de_daana",
+    "logoUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/logos/hijos_de_daana.png",
+    "dataUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/data/hijos_de_daana.json",
+    "imagesBaseUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/hijos_de_daana",
     "cardCount": 0,
     "accentHex": "#4DB6AC"
   },
   {
     "id": "helenica",
     "name": "Helenica",
-    "logoUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/logos/helenica.png",
-    "dataUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/data/helenica.json",
-    "imagesBaseUrl": "https://raw.githubusercontent.com/TU_USUARIO/myl-collection/main/images/helenica",
+    "logoUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/logos/helenica.png",
+    "dataUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/data/helenica.json",
+    "imagesBaseUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/helenica",
     "cardCount": 0,
     "accentHex": "#8B1A2E"
   }
