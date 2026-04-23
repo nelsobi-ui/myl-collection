@@ -1,0 +1,11 @@
+[
+  {
+    "id": "dominios_de_ra",
+    "name": "Dominios de Ra",
+    "logoUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/logos/dominios_de_ra.png",
+    "dataUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/data/dominios_de_ra.json",
+    "imagesBaseUrl": "https://raw.githubusercontent.com/nelsobi-ui/myl-collection/main/images/dominios_de_ra",
+    "cardCount": 236,
+    "accentHex": "#D4AF37"
+  }
+]
