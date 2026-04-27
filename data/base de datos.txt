@@ -1,4 +1,68 @@
 Name	Set	Imagefile	Number	Type	Affiliation	Offense	Cost	Skills	Bloque	Edicion	Rework
+Ricardo Corazon de Leon	cruzadas	237	237	Aliado	Caballero	2	3	En tu fase de vigilia, y una vez por turno, destierra una carta de tu mano para mirar la de tu oponente y luego elige una carta que no podra ser jugada en su proximo turno.	Primer Bloque	Espada Sagrada	
+Federico Barbarroja	cruzadas	238	238	Aliado	Caballero	1	4	No tiene limite de Armas. Si hace daño al mazo castillo oponente, puedes buscar un Aliado de su misma fuerza en tu mazo castillo y ponerlo en tu linea de defensa.	Primer Bloque	Espada Sagrada	
+Felipe II	cruzadas	239	239	Aliado	Caballero	2	4	Cada vez que Felipe II entre o salga del juego, destruye una carta Oro oponente (Carta Unica).	Primer Bloque	Espada Sagrada	
+Claymore	cruzadas	240	240	Arma			4	Si su portador hace daño, puedes subir dos cartas en juego de tu oponente a su mano. Esta habilidad no afecta a los oros.	Primer Bloque	Espada Sagrada	
+Torre de Campana	cruzadas	241	241	Arma			3	El portador de Torre de Campaña se considera imbloqueable. Despues de atacar, este aliado es barajado en el Mazo Castillo y el Arma es destruida.	Primer Bloque	Espada Sagrada	
+Saladino	cruzadas	242	242	Aliado	Caballero	1	3	En tu fase de Vigilia, Saladino genera 2 Oros (Carta Unica).	Primer Bloque	Espada Sagrada	
+Arca de la Alianza	cruzadas	243	243	Talisman			4	En respuesta a finalizar un turno. Juega Arca de la Alianza y devuelve al juego a todos tus aliados, armas, oros y totems destruidos en este turno. Carta unica.	Primer Bloque	Espada Sagrada	
+Jerusalen	cruzadas	244	244	Totem			6	Mientras Jerusalen este en juego, los jugadores se saltan la Fase de Agrupacion.	Primer Bloque	Espada Sagrada	
+Mezquita de Damasco	cruzadas	245	245	Totem			3	En Guerra de Talismanes, todos los aliados en juego pierden sus habilidades.	Primer Bloque	Espada Sagrada	
+Siroco	cruzadas	246	246	Talisman			5	En tu Fase de Vigilia, busca en el Cementerio oponente un aliado de fuerza 3 o menos y ponlo en tu Linea de Defensa (hasta salir del juego se considera bajo tu control).	Primer Bloque	Espada Sagrada	
+Fantasmas del Desierto	cruzadas	247	247	Talisman			4	En Guerra de Talismanes, todos los aliados en juego tienen fuerza 1 y no pueden recibir bonos de fuerza hasta el final del turno.	Primer Bloque	Espada Sagrada	
+Pedro el Ermitano	cruzadas	248	248	Aliado	Caballero	3	3	En tu Fase de Vigilia, puedes descartar 1 carta para que Pedro el Ermitaño no pueda ser afectado por Talismanes hasta el final del turno.	Primer Bloque	Espada Sagrada	
+Gitanos	cruzadas	249	249	Talisman			3	Busca una carta en tu Mazo Castillo y ponla en tu mano.	Primer Bloque	Espada Sagrada	
+La Llama Fria	cruzadas	250	250	Talisman			5	En tu Fase de Vigilia, busca un aliado en tu Mazo Castillo y ponlo en tu Linea de Defensa.	Primer Bloque	Espada Sagrada	
+Ma'Arrat An-Numan	cruzadas	251	251	Talisman			6	Destierra todos los aliados en juego.	Primer Bloque	Espada Sagrada	
+Bernardo de Clairvaux	cruzadas	252	252	Aliado	Caballero	3	3	En Guerra de Talismanes puedes desterrar a Bernardo de Clairvaux para robar 2 cartas.	Primer Bloque	Espada Sagrada	
+Sir Robin de Lockesley	cruzadas	253	253	Aliado	Caballero	3	3	Cuando Sir Robin De Lockesley entra en juego, un aliado en la Linea de Defensa oponente pasa a tu Linea de defensa hasta el final del turno.	Primer Bloque	Espada Sagrada	
+Jaques de Molay	cruzadas	254	254	Aliado	Caballero	4	4	Jaques de Molay puede atacar cuando entra en juego. Si lo hace, busca en el Mazo Castillo de tu oponente 2 Talismanes y envialos al Cementerio.	Primer Bloque	Espada Sagrada	
+Mercaderes	cruzadas	255	255	Oro				En respuesta a un ataque oponente, mueve Mercaderes a la Linea de Defensa y consideralo como un aliado bloqueador de fuerza 3. Al finalizar el turno, destruyelo.	Primer Bloque	Espada Sagrada	
+Cruz Templaria	cruzadas	256	256	Oro				En tu fase de vigilia, puedes desterrar a Cruz Templaria, para buscar un Aliado en tu mazo castillo y ponerlo en tu linea de defensa. El Aliado debe ser desterrado al final del turno. Carta unica	Primer Bloque	Espada Sagrada	
+Simon de Montfort	cruzadas	257	257	Aliado	Caballero	2	3	En tu fase de vigilia, genera 2 oros para pagar el coste de un Totem.	Primer Bloque	Espada Sagrada	
+Ivanhoe	cruzadas	258	258	Aliado	Caballero	2	4	El Aliado que bloquee a Ivanhoe es destruido al final del turno.	Primer Bloque	Espada Sagrada	
+Caballero Hospitalario	cruzadas	259	259	Aliado	Caballero	1	2	Puedes destruir a Caballero Hospitalario para destruir un Totem oponente.	Primer Bloque	Espada Sagrada	
+Caballero Teuton	cruzadas	260	260	Aliado	Caballero	2	5	Caballero Teuton no puede ser destruido.	Primer Bloque	Espada Sagrada	
+Caballero Templario	cruzadas	261	261	Aliado	Caballero	3	6	En tu fase de vigilia, si tienes 3 copias de Caballero Templario en tu cementerio puedes ponerlos en tu linea de defensa sin pagar su coste.	Primer Bloque	Espada Sagrada	
+Duque Enrico Dandolo	cruzadas	262	262	Aliado	Caballero	2	3	En respuesta a que tu oponente juegue un Talisman, destierra a Duque Enrico Dandolo para anular a ese Talisman.	Primer Bloque	Espada Sagrada	
+Basilio II Bulgaroktonos	cruzadas	263	263	Aliado	Caballero	4	3	Despues de atacar es destruido.	Primer Bloque	Espada Sagrada	
+Sir Beufort	cruzadas	264	264	Aliado	Caballero	2	2	Si juegas a Sir Beufort en tu primer turno, no se podran generar Oros hasta el final del juego.	Primer Bloque	Espada Sagrada	
+Sir Vergenio	cruzadas	265	265	Aliado	Caballero	3	3	Cuando Sir Vergenio entra en juego, busca en el Mazo Castillo oponente una carta aliado de fuerza 3 o menos y enviala a su Cementerio.	Primer Bloque	Espada Sagrada	
+Hermano Lazarus	cruzadas	266	266	Aliado	Caballero	1	3	Puedes Destruir a Hermano Lazarus para robar 2 cartas de tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
+Capitan Imperial	cruzadas	267	267	Aliado	Caballero	1	3	Cuando Capitan Imperial entra en juego, todos los aliados en la Linea de Defensa oponente, pasan a la Linea de Ataque.	Primer Bloque	Espada Sagrada	
+Maza de Guerra	cruzadas	268	268	Arma			3	Su portador gana +2 a la fuerza y no puede ser afectado por Talismanes.	Primer Bloque	Espada Sagrada	
+Escudo Templario	cruzadas	269	269	Arma			3	El portador de Escudo Templario puede bloquear a mas de un aliado oponente hasta agotar su fuerza.	Primer Bloque	Espada Sagrada	
+Lanza de Justa	cruzadas	270	270	Arma			3	En respuesta a finalizar el turno, si el aliado oponente que bloqueo al portador de Lanza de Justa no fue destruido, vuelve a la mano.	Primer Bloque	Espada Sagrada	
+Espada Templaria	cruzadas	271	271	Arma			3	El portador de Espada Templaria puede portar un arma extra. En Guerra de Talismanes puedes desterrar Espada Templaria para que tu oponente bote de su Mazo Castillo tantas cartas como fuerza tenga su portador.	Primer Bloque	Espada Sagrada	
+Ballesta Franca	cruzadas	272	272	Arma			3	El portador de Ballesta Franca gana +2 a la fuerza y no puede ser bloqueado por aliados oponentes que tengan menor fuerza que el.	Primer Bloque	Espada Sagrada	
+San Juan de Acre	cruzadas	273	273	Totem			3	En respuesta a realizar tu bloqueo, paga 1 de Oro para que San Juan de Acre se convierta en un aliado bloqueador raza Caballero de fuerza 4. Al finalizar el turno, si no es destruido vuelve a ser un Totem.	Primer Bloque	Espada Sagrada	
+Bizancio	cruzadas	274	274	Totem			4	En respuesta a que tu Mazo Castillo se quede sin cartas, destierra a Bizancio para regresar la primera carta de tu Cementerio a tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
+Templo del Desierto	cruzadas	275	275	Totem			3	Mientras esta carta este en juego solo se puede declarar un aliado atacante por turno.	Primer Bloque	Espada Sagrada	
+Traficantes de Esclavos	cruzadas	276	276	Talisman			3	En respuesta a la agrupacion de oros de tu oponente, destruye uno de tus aliados para que toda la reserva de oros oponentes, sea considerada como Oro pagado hasta el final del turno.	Primer Bloque	Espada Sagrada	
+Cruzada de los Ninos	cruzadas	277	277	Talisman			3	Unica. En tu fase de vigilia, descarta 2 cartas al azar de la mano de tu oponente.	Primer Bloque	Espada Sagrada	
+Joyero	cruzadas	278	278	Talisman			4	Un oro oponente pasa a tu reserva de oro hasta el final del juego.	Primer Bloque	Espada Sagrada	
+Falso Tesoro	cruzadas	279	279	Talisman			1	Anula o cancela una habilidad que genere oros, despues destruye la carta oponente.	Primer Bloque	Espada Sagrada	
+Edessa	cruzadas	280	280	Totem			5	Cuando uno de tus aliados sea destruido en lugar de enviarlo a tu cementerio subelo a tu mano. Cuando ese aliado entre de nuevo en juego pierde su habilidad.	Primer Bloque	Espada Sagrada	
+Balduino	cruzadas	281	281	Aliado	Caballero	3	1	Al finalizar cada turno en que haya atacado gana -1 de fuerza permanentemente.	Primer Bloque	Espada Sagrada	
+Conrado III	cruzadas	282	282	Aliado	Caballero	1	3	Guardian. Puede bloquear a 2 aliados oponentes, si lo hace duplica su fuerza.	Primer Bloque	Espada Sagrada	
+Duque Godofredo	cruzadas	283	283	Aliado	Caballero	2	2	Mientras esta carta este en juego, todos tus Caballeros ganan + 1 a la fuerza.	Primer Bloque	Espada Sagrada	
+Luis IX El Santo	cruzadas	284	284	Aliado	Caballero	1	2	Puede atacar cuando entra en juego.	Primer Bloque	Espada Sagrada	
+Leonor de Aquitania	cruzadas	285	285	Aliado	Caballero	2	3	Cuando entra en juego roba 1 carta.	Primer Bloque	Espada Sagrada	
+Caballeria Pesada	cruzadas	286	286	Aliado	Caballero	2	2	Si en tu Fase de vigilia tienes 3 copias en juego de esta carta, puedes destruirlas para que tu oponente bote 6 cartas.	Primer Bloque	Espada Sagrada	
+Infante	cruzadas	287	287	Aliado	Caballero	1	2	Si en tu fase de vigilia tienen 3 copias de esta carta en juego, ganan +2 a la fuerza hasta el final del turno.	Primer Bloque	Espada Sagrada	
+Cimitarra Dorada	cruzadas	288	288	Oro					Primer Bloque	Espada Sagrada	
+Tancredo	cruzadas	289	289	Aliado	Caballero	2	3	Si es declarado atacante duplica su fuerza.	Primer Bloque	Espada Sagrada	
+Alejo	cruzadas	290	290	Aliado	Caballero	2	2	Alejo se considera Imbloqueable	Primer Bloque	Espada Sagrada	
+Curandera	cruzadas	291	291	Aliado	Caballero	1	3	Mientras este en juego, tus cartas reducen en 1 su coste.	Primer Bloque	Espada Sagrada	
+Mina de Diamantes	cruzadas	292	292	Oro					Primer Bloque	Espada Sagrada	
+Cimitarra	cruzadas	293	293	Arma			2	Su portador gana +2 a la fuerza cuando ataca.	Primer Bloque	Espada Sagrada	
+Aceite Hirviendo	cruzadas	294	294	Arma			4	Aceite Hirviendo solo la puede portar un aliado oponente. Cada turno gana -2 a la fuerza permanentemente.	Primer Bloque	Espada Sagrada	
+Antioquia	cruzadas	295	295	Totem			3	Mientras Antioquia este en juego, los jugadores podran jugar un maximo de 2 aliados por turno.	Primer Bloque	Espada Sagrada	
+Gente Escorpion	cruzadas	296	296	Talisman			3	Descarta una carta al azar de la mano de tu oponente.	Primer Bloque	Espada Sagrada	
+Espejismo	cruzadas	297	297	Talisman			3	En Guerra de Talismanes, una aliado oponente tiene fuerza 0 hasta el final del turno.	Primer Bloque	Espada Sagrada	
+Grito de Guerra	cruzadas	298	298	Talisman			2	Tu oponente bota 2 cartas de su Mazo Castillo.	Primer Bloque	Espada Sagrada	
+Ataque a Traicion	cruzadas	299	299	Talisman			6	En tu Fase de Vigilia, todos los aliados oponentes pasan a tu control y pueden ser declarados atacantes. Si no ganas en este turno pierdes el Juego (Carta Unica).	Primer Bloque	Espada Sagrada	
+Cruzada de los Pobres	cruzadas	300	300	Talisman			3	En tu fase de vigilia, si todos tus Aliados en juego tienen fuerza 2 o menos, puedes destruirlos, para que tu oponente no pueda declarar ataque su proximo turno.	Primer Bloque	Espada Sagrada	
 Amon	dominios_de_ra	1	1	Aliado	Eterno	3	4	Las habilidades oponentes que hagan objetivo a Amon cuestan 2 Oros adicionales. Mientras Amon este en juego, en tu Fase de Vigilia, solo una vez por turno, puedes pagar 4 Oros para buscar en tu Cementerio, Mazo Castillo o Zona de Destierro un Aliado de raza Eterno de coste 5 o menos y jugarlo sin pagar su coste. Carta Unica.	Primer Bloque	Dominios de Ra	
 Ptah	dominios_de_ra	2	2	Aliado	Eterno	4	2	No puede ser declarado atacante. Cuando entra en juego, tu oponente elige 6 cartas de tu cementerio y las baraja en tu mazo castillo.	Primer Bloque	Dominios de Ra	
 Osiris	dominios_de_ra	3	3	Aliado	Eterno	6	3	No puede ser declarado atacante. Mientras esta carta este en juego tu oponente no podra descartar cartas de tu mano.	Primer Bloque	Dominios de Ra	
@@ -235,8 +299,6 @@ Fieras Domesticas	dominios_de_ra	233	233	Oro					Primer Bloque	Dominios de Ra
 Hipopotamo Sagrado	dominios_de_ra	234	234	Oro					Primer Bloque	Dominios de Ra	
 Poetas de la Corte	dominios_de_ra	235	235	Oro					Primer Bloque	Dominios de Ra	
 Piedra Roseta	dominios_de_ra	236	236	Oro				Unica. En tu fase de vigilia, si tienes 2 o mas Aliados Sacerdote en juego, puedes barajar una carta de tu Mano para robar una carta, maximo 3 veces por turno.	Primer Bloque	Dominios de Ra	
-											
-											
 Cleopatra VII	encrucijada	237	237	Aliado	Faraon	3	4	Unica. Cuando entra en juego, nombra una raza, los Aliados de esa raza pierden su habilidad mientras esta carta este en juego.	Primer Bloque	Dominios de Ra	
 Ptolomeo II	encrucijada	238	238	Aliado	Faraon	2	3	Paga 4 Oros para prevenir que una de tus cartas en juego sea afectada por una habilidad oponente.	Primer Bloque	Dominios de Ra	
 Cleomenes de Naukratis	encrucijada	239	239	Aliado	Faraon	6	4	Puede atacar el turno en que entra en juego. En la fase final debes subir esta carta a tu Mano.	Primer Bloque	Dominios de Ra	
@@ -365,8 +427,6 @@ Mandoble de Tifon	encrucijada	361	361	Arma			3	El portador gana 2 a la fuerza. S
 Lagrima	encrucijada	362	362	Arma			4	El portador pierde su habilidad y gana 2 a la fuerza.	Primer Bloque	Dominios de Ra	
 Escudo Ptolemaico	encrucijada	363	363	Arma			4	El portador no puede ser barajado.	Primer Bloque	Dominios de Ra	
 Cimitarra Persa	encrucijada	364	364	Arma			4	Cuando entra en juego, puedes buscar una copia de esta carta y ponerla en juego sin pagar su coste. El portador gana 2 a la fuerza.	Primer Bloque	Dominios de Ra	
-											
-											
 Rey Arturo Pendragon	espada_sagrada	1	1	Aliado	Caballero	2	5	Solo puedes tener en juego un Rey Arturo Pendragon. Mientras este en juego, tus Caballeros ganan + 1 a la fuerza y tu oponente bota 2 cartas en cada fase de agrupacion. En respuesta a que sea destruido, puedes descartar 2 para salvarlo.	Primer Bloque	Espada Sagrada	
 Reina Guinivere	espada_sagrada	2	2	Aliado	Caballero	2	4	Cuando Reina Guinivere entre en juego, puedes buscar un Aliado Caballero en tu Mazo y ponerlo en tu mano. En tu fase de vigilia, genera 2 oros para bajar jugar Armas o 1 oro para jugar Caballeros.	Primer Bloque	Espada Sagrada	
 Sir Lancelot	espada_sagrada	3	3	Aliado	Caballero	1	4	Sir Lancelot no puede ser afectado por Talismanes. No tiene limite de Armas. Por cada Arma que porte, gana 2 a la fuerza.	Primer Bloque	Espada Sagrada	
@@ -603,74 +663,6 @@ Collar de Dragon	espada_sagrada	233	233	Oro					Primer Bloque	Espada Sagrada
 Flota Mercante	espada_sagrada	234	234	Oro					Primer Bloque	Espada Sagrada	
 Mesa Redonda	espada_sagrada	235	235	Oro				En respuesta a que sea destruido, destuye un Oro oponente.	Primer Bloque	Espada Sagrada	
 El Mercado de Camelot	espada_sagrada	236	236	Oro					Primer Bloque	Espada Sagrada	
-											
-											
-Ricardo Corazon de Leon	cruzadas	237	237	Aliado	Caballero	2	3	En tu fase de vigilia, y una vez por turno, destierra una carta de tu mano para mirar la de tu oponente y luego elige una carta que no podra ser jugada en su proximo turno.	Primer Bloque	Espada Sagrada	
-Federico Barbarroja	cruzadas	238	238	Aliado	Caballero	1	4	No tiene limite de Armas. Si hace daño al mazo castillo oponente, puedes buscar un Aliado de su misma fuerza en tu mazo castillo y ponerlo en tu linea de defensa.	Primer Bloque	Espada Sagrada	
-Felipe II	cruzadas	239	239	Aliado	Caballero	2	4	Cada vez que Felipe II entre o salga del juego, destruye una carta Oro oponente (Carta Unica).	Primer Bloque	Espada Sagrada	
-Claymore	cruzadas	240	240	Arma			4	Si su portador hace daño, puedes subir dos cartas en juego de tu oponente a su mano. Esta habilidad no afecta a los oros.	Primer Bloque	Espada Sagrada	
-Torre de Campana	cruzadas	241	241	Arma			3	El portador de Torre de Campaña se considera imbloqueable. Despues de atacar, este aliado es barajado en el Mazo Castillo y el Arma es destruida.	Primer Bloque	Espada Sagrada	
-Saladino	cruzadas	242	242	Aliado	Caballero	1	3	En tu fase de Vigilia, Saladino genera 2 Oros (Carta Unica).	Primer Bloque	Espada Sagrada	
-Arca de la Alianza	cruzadas	243	243	Talisman			4	En respuesta a finalizar un turno. Juega Arca de la Alianza y devuelve al juego a todos tus aliados, armas, oros y totems destruidos en este turno. Carta unica.	Primer Bloque	Espada Sagrada	
-Jerusalen	cruzadas	244	244	Totem			6	Mientras Jerusalen este en juego, los jugadores se saltan la Fase de Agrupacion.	Primer Bloque	Espada Sagrada	
-Mezquita de Damasco	cruzadas	245	245	Totem			3	En Guerra de Talismanes, todos los aliados en juego pierden sus habilidades.	Primer Bloque	Espada Sagrada	
-Siroco	cruzadas	246	246	Talisman			5	En tu Fase de Vigilia, busca en el Cementerio oponente un aliado de fuerza 3 o menos y ponlo en tu Linea de Defensa (hasta salir del juego se considera bajo tu control).	Primer Bloque	Espada Sagrada	
-Fantasmas del Desierto	cruzadas	247	247	Talisman			4	En Guerra de Talismanes, todos los aliados en juego tienen fuerza 1 y no pueden recibir bonos de fuerza hasta el final del turno.	Primer Bloque	Espada Sagrada	
-Pedro el Ermitano	cruzadas	248	248	Aliado	Caballero	3	3	En tu Fase de Vigilia, puedes descartar 1 carta para que Pedro el Ermitaño no pueda ser afectado por Talismanes hasta el final del turno.	Primer Bloque	Espada Sagrada	
-Gitanos	cruzadas	249	249	Talisman			3	Busca una carta en tu Mazo Castillo y ponla en tu mano.	Primer Bloque	Espada Sagrada	
-La Llama Fria	cruzadas	250	250	Talisman			5	En tu Fase de Vigilia, busca un aliado en tu Mazo Castillo y ponlo en tu Linea de Defensa.	Primer Bloque	Espada Sagrada	
-Ma'Arrat An-Numan	cruzadas	251	251	Talisman			6	Destierra todos los aliados en juego.	Primer Bloque	Espada Sagrada	
-Bernardo de Clairvaux	cruzadas	252	252	Aliado	Caballero	3	3	En Guerra de Talismanes puedes desterrar a Bernardo de Clairvaux para robar 2 cartas.	Primer Bloque	Espada Sagrada	
-Sir Robin de Lockesley	cruzadas	253	253	Aliado	Caballero	3	3	Cuando Sir Robin De Lockesley entra en juego, un aliado en la Linea de Defensa oponente pasa a tu Linea de defensa hasta el final del turno.	Primer Bloque	Espada Sagrada	
-Jaques de Molay	cruzadas	254	254	Aliado	Caballero	4	4	Jaques de Molay puede atacar cuando entra en juego. Si lo hace, busca en el Mazo Castillo de tu oponente 2 Talismanes y envialos al Cementerio.	Primer Bloque	Espada Sagrada	
-Mercaderes	cruzadas	255	255	Oro				En respuesta a un ataque oponente, mueve Mercaderes a la Linea de Defensa y consideralo como un aliado bloqueador de fuerza 3. Al finalizar el turno, destruyelo.	Primer Bloque	Espada Sagrada	
-Cruz Templaria	cruzadas	256	256	Oro				En tu fase de vigilia, puedes desterrar a Cruz Templaria, para buscar un Aliado en tu mazo castillo y ponerlo en tu linea de defensa. El Aliado debe ser desterrado al final del turno. Carta unica	Primer Bloque	Espada Sagrada	
-Simon de Montfort	cruzadas	257	257	Aliado	Caballero	2	3	En tu fase de vigilia, genera 2 oros para pagar el coste de un Totem.	Primer Bloque	Espada Sagrada	
-Ivanhoe	cruzadas	258	258	Aliado	Caballero	2	4	El Aliado que bloquee a Ivanhoe es destruido al final del turno.	Primer Bloque	Espada Sagrada	
-Caballero Hospitalario	cruzadas	259	259	Aliado	Caballero	1	2	Puedes destruir a Caballero Hospitalario para destruir un Totem oponente.	Primer Bloque	Espada Sagrada	
-Caballero Teuton	cruzadas	260	260	Aliado	Caballero	2	5	Caballero Teuton no puede ser destruido.	Primer Bloque	Espada Sagrada	
-Caballero Templario	cruzadas	261	261	Aliado	Caballero	3	6	En tu fase de vigilia, si tienes 3 copias de Caballero Templario en tu cementerio puedes ponerlos en tu linea de defensa sin pagar su coste.	Primer Bloque	Espada Sagrada	
-Duque Enrico Dandolo	cruzadas	262	262	Aliado	Caballero	2	3	En respuesta a que tu oponente juegue un Talisman, destierra a Duque Enrico Dandolo para anular a ese Talisman.	Primer Bloque	Espada Sagrada	
-Basilio II Bulgaroktonos	cruzadas	263	263	Aliado	Caballero	4	3	Despues de atacar es destruido.	Primer Bloque	Espada Sagrada	
-Sir Beufort	cruzadas	264	264	Aliado	Caballero	2	2	Si juegas a Sir Beufort en tu primer turno, no se podran generar Oros hasta el final del juego.	Primer Bloque	Espada Sagrada	
-Sir Vergenio	cruzadas	265	265	Aliado	Caballero	3	3	Cuando Sir Vergenio entra en juego, busca en el Mazo Castillo oponente una carta aliado de fuerza 3 o menos y enviala a su Cementerio.	Primer Bloque	Espada Sagrada	
-Hermano Lazarus	cruzadas	266	266	Aliado	Caballero	1	3	Puedes Destruir a Hermano Lazarus para robar 2 cartas de tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
-Capitan Imperial	cruzadas	267	267	Aliado	Caballero	1	3	Cuando Capitan Imperial entra en juego, todos los aliados en la Linea de Defensa oponente, pasan a la Linea de Ataque.	Primer Bloque	Espada Sagrada	
-Maza de Guerra	cruzadas	268	268	Arma			3	Su portador gana +2 a la fuerza y no puede ser afectado por Talismanes.	Primer Bloque	Espada Sagrada	
-Escudo Templario	cruzadas	269	269	Arma			3	El portador de Escudo Templario puede bloquear a mas de un aliado oponente hasta agotar su fuerza.	Primer Bloque	Espada Sagrada	
-Lanza de Justa	cruzadas	270	270	Arma			3	En respuesta a finalizar el turno, si el aliado oponente que bloqueo al portador de Lanza de Justa no fue destruido, vuelve a la mano.	Primer Bloque	Espada Sagrada	
-Espada Templaria	cruzadas	271	271	Arma			3	El portador de Espada Templaria puede portar un arma extra. En Guerra de Talismanes puedes desterrar Espada Templaria para que tu oponente bote de su Mazo Castillo tantas cartas como fuerza tenga su portador.	Primer Bloque	Espada Sagrada	
-Ballesta Franca	cruzadas	272	272	Arma			3	El portador de Ballesta Franca gana +2 a la fuerza y no puede ser bloqueado por aliados oponentes que tengan menor fuerza que el.	Primer Bloque	Espada Sagrada	
-San Juan de Acre	cruzadas	273	273	Totem			3	En respuesta a realizar tu bloqueo, paga 1 de Oro para que San Juan de Acre se convierta en un aliado bloqueador raza Caballero de fuerza 4. Al finalizar el turno, si no es destruido vuelve a ser un Totem.	Primer Bloque	Espada Sagrada	
-Bizancio	cruzadas	274	274	Totem			4	En respuesta a que tu Mazo Castillo se quede sin cartas, destierra a Bizancio para regresar la primera carta de tu Cementerio a tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
-Templo del Desierto	cruzadas	275	275	Totem			3	Mientras esta carta este en juego solo se puede declarar un aliado atacante por turno.	Primer Bloque	Espada Sagrada	
-Traficantes de Esclavos	cruzadas	276	276	Talisman			3	En respuesta a la agrupacion de oros de tu oponente, destruye uno de tus aliados para que toda la reserva de oros oponentes, sea considerada como Oro pagado hasta el final del turno.	Primer Bloque	Espada Sagrada	
-Cruzada de los Ninos	cruzadas	277	277	Talisman			3	Unica. En tu fase de vigilia, descarta 2 cartas al azar de la mano de tu oponente.	Primer Bloque	Espada Sagrada	
-Joyero	cruzadas	278	278	Talisman			4	Un oro oponente pasa a tu reserva de oro hasta el final del juego.	Primer Bloque	Espada Sagrada	
-Falso Tesoro	cruzadas	279	279	Talisman			1	Anula o cancela una habilidad que genere oros, despues destruye la carta oponente.	Primer Bloque	Espada Sagrada	
-Edessa	cruzadas	280	280	Totem			5	Cuando uno de tus aliados sea destruido en lugar de enviarlo a tu cementerio subelo a tu mano. Cuando ese aliado entre de nuevo en juego pierde su habilidad.	Primer Bloque	Espada Sagrada	
-Balduino	cruzadas	281	281	Aliado	Caballero	3	1	Al finalizar cada turno en que haya atacado gana -1 de fuerza permanentemente.	Primer Bloque	Espada Sagrada	
-Conrado III	cruzadas	282	282	Aliado	Caballero	1	3	Guardian. Puede bloquear a 2 aliados oponentes, si lo hace duplica su fuerza.	Primer Bloque	Espada Sagrada	
-Duque Godofredo	cruzadas	283	283	Aliado	Caballero	2	2	Mientras esta carta este en juego, todos tus Caballeros ganan + 1 a la fuerza.	Primer Bloque	Espada Sagrada	
-Luis IX El Santo	cruzadas	284	284	Aliado	Caballero	1	2	Puede atacar cuando entra en juego.	Primer Bloque	Espada Sagrada	
-Leonor de Aquitania	cruzadas	285	285	Aliado	Caballero	2	3	Cuando entra en juego roba 1 carta.	Primer Bloque	Espada Sagrada	
-Caballeria Pesada	cruzadas	286	286	Aliado	Caballero	2	2	Si en tu Fase de vigilia tienes 3 copias en juego de esta carta, puedes destruirlas para que tu oponente bote 6 cartas.	Primer Bloque	Espada Sagrada	
-Infante	cruzadas	287	287	Aliado	Caballero	1	2	Si en tu fase de vigilia tienen 3 copias de esta carta en juego, ganan +2 a la fuerza hasta el final del turno.	Primer Bloque	Espada Sagrada	
-Cimitarra Dorada	cruzadas	288	288	Oro					Primer Bloque	Espada Sagrada	
-Tancredo	cruzadas	289	289	Aliado	Caballero	2	3	Si es declarado atacante duplica su fuerza.	Primer Bloque	Espada Sagrada	
-Alejo	cruzadas	290	290	Aliado	Caballero	2	2	Alejo se considera Imbloqueable	Primer Bloque	Espada Sagrada	
-Curandera	cruzadas	291	291	Aliado	Caballero	1	3	Mientras este en juego, tus cartas reducen en 1 su coste.	Primer Bloque	Espada Sagrada	
-Mina de Diamantes	cruzadas	292	292	Oro					Primer Bloque	Espada Sagrada	
-Cimitarra	cruzadas	293	293	Arma			2	Su portador gana +2 a la fuerza cuando ataca.	Primer Bloque	Espada Sagrada	
-Aceite Hirviendo	cruzadas	294	294	Arma			4	Aceite Hirviendo solo la puede portar un aliado oponente. Cada turno gana -2 a la fuerza permanentemente.	Primer Bloque	Espada Sagrada	
-Antioquia	cruzadas	295	295	Totem			3	Mientras Antioquia este en juego, los jugadores podran jugar un maximo de 2 aliados por turno.	Primer Bloque	Espada Sagrada	
-Gente Escorpion	cruzadas	296	296	Talisman			3	Descarta una carta al azar de la mano de tu oponente.	Primer Bloque	Espada Sagrada	
-Espejismo	cruzadas	297	297	Talisman			3	En Guerra de Talismanes, una aliado oponente tiene fuerza 0 hasta el final del turno.	Primer Bloque	Espada Sagrada	
-Grito de Guerra	cruzadas	298	298	Talisman			2	Tu oponente bota 2 cartas de su Mazo Castillo.	Primer Bloque	Espada Sagrada	
-Ataque a Traicion	cruzadas	299	299	Talisman			6	En tu Fase de Vigilia, todos los aliados oponentes pasan a tu control y pueden ser declarados atacantes. Si no ganas en este turno pierdes el Juego (Carta Unica).	Primer Bloque	Espada Sagrada	
-Cruzada de los Pobres	cruzadas	300	300	Talisman			3	En tu fase de vigilia, si todos tus Aliados en juego tienen fuerza 2 o menos, puedes destruirlos, para que tu oponente no pueda declarar ataque su proximo turno.	Primer Bloque	Espada Sagrada	
-											
-											
 Gaia	helenica	1	1	Aliado	Olimpico	2	4	En tu fase de vigilia, solo una vez por turno, puedes buscar un Aliado en tu mazo castillo y ponerlo en tu mano.	Primer Bloque	Helenica	
 Helios	helenica	2	2	Aliado	Olimpico	2	5	Mientras Este Aliado este en juego, tus Alidos Olimpicos ganan 2 a la fuerza y no pueden ser afectados  por Talismanes oponentes.	Primer Bloque	Helenica	
 Eolo	helenica	3	3	Aliado	Olimpico	1	6	Cuando esta carta entra en juego, destruye todas las cartas en juego a excepcion de esta carta.	Primer Bloque	Helenica	
@@ -907,74 +899,6 @@ Dones de Hades	helenica	233	233	Oro					Primer Bloque	Helenica
 Vinas	helenica	234	234	Oro					Primer Bloque	Helenica	
 Frontera Oriental	helenica	235	235	Oro					Primer Bloque	Helenica	
 Lira	helenica	236	236	Oro					Primer Bloque	Helenica	
-											
-											
-Julio Cesar	imperio	237	237	Aliado	Heroe	2	4	Unica. Mientras esta carta este en juego, todos tus demas Aliados ganan 1 a la fuerza y son imbloqueables.	Primer Bloque	Helenica	
-Espartaco	imperio	238	238	Aliado	Heroe	2	3	En tu fase de vigilia, solo una vez por turno, puedes barajar de tu cementerio a tu mazo castillo tantas cartas como fuerza tenga este Aliado.	Primer Bloque	Helenica	
-Cesar Augusto	imperio	239	239	Aliado	Heroe	2	4	Sube este Aliado a tu mano para anular una carta oponente.	Primer Bloque	Helenica	
-Jupiter	imperio	240	240	Aliado	Olimpico	5	5	Cuando entra en juego, puedes buscar hasta 2 Aliados Eternos en tu Mazo Castillo y ponerlos en tu mano.	Primer Bloque	Helenica	
-Jano	imperio	241	241	Aliado	Olimpico	1	4	Cuando entra en juego, genera 2 oros. Cuando salga del juego sube un oro oponente a la mano de su dueno.	Primer Bloque	Helenica	
-Neptuno	imperio	242	242	Aliado	Olimpico	3	5	Unica. En respuesta a finalizar tu turno, puedes agrupar tu oro pagado.	Primer Bloque	Helenica	
-Leucrota	imperio	243	243	Aliado	Titan	4	5	Cuando entra en juego, destruye todos los Aliados de fuerza 3 o menos.	Primer Bloque	Helenica	
-Dragon Ceniza	imperio	244	244	Aliado	Titan	0	3	No puede ser declarado atacante. En respuesta a declararlo bloqueador, gana fuerza igual a la del Aliado que Bloquee.	Primer Bloque	Helenica	
-Constantino	imperio	245	245	Aliado	Heroe	1	3	Mientras estae Aliado permanezca en juego, si todos tus Aliados son Heroes, ganan 2 a la fuerza.	Primer Bloque	Helenica	
-Caligula	imperio	246	246	Aliado	Heroe	1	5	El turno en que entra en juego, todas las cartas en juego se consideran Aliados de fuerza 1 e indestructibles. Estso deben atacar o bloquear. En tu fase final todas las cartas vuelven a su posicion anterior.	Primer Bloque	Helenica	
-Neron	imperio	247	247	Aliado	Heroe	2	6	Cuando entra en juego destruye todos tus oros y tu oponente debe botar 6 cartas.	Primer Bloque	Helenica	
-Marte	imperio	248	248	Aliado	Olimpico	2	3	Cuando es declarado atacante o bloqueador los jugadores se saltan la guerra de Talismanes en este turno.	Primer Bloque	Helenica	
-Las Erinias	imperio	249	249	Aliado	Olimpico	1	4	Cuando entra en juego, destruye al Aliado oponente de mayor fuerza.	Primer Bloque	Helenica	
-Venus	imperio	250	250	Aliado	Olimpico	2	4	En tu Fase de Vigilia, solo una vez por turno, puedes ver las tres cartas superiores del Mazo Castillo oponente y devolverlas en el orden que quieras.	Primer Bloque	Helenica	
-Mercurio	imperio	251	251	Aliado	Olimpico	3	4	En respuesta a declarar tu ataque, puedes pagar 1 oro para que un Aliado Heroe sea imbloqueable hasta el final del turno.	Primer Bloque	Helenica	
-Dragon Oscuro	imperio	252	252	Aliado	Titan	2	3	Si es declarado atacante los aliados que lo acompanen ganan 1 a la fuerza.	Primer Bloque	Helenica	
-Gigante de la Niebla	imperio	253	253	Aliado	Titan	8	6	No puede ser agrupado a menos que en tu fase de vigilia pages 4 oros para agruparlo.	Primer Bloque	Helenica	
-Manticora	imperio	254	254	Aliado	Titan	2	5	En respuesta a que tu oponente baje un Aliado, paga el coste de ese Aliado para destruirlo.	Primer Bloque	Helenica	
-Deva	imperio	255	255	Aliado	Titan	2	5	No puede ser declarado atacante. En tu fase de vigilia, solo una vez por turno puedes pagar 2 Oros para subir un Aliado oponente a su mano.	Primer Bloque	Helenica	
-Legionario	imperio	256	256	Aliado	Heroe	2	4	Puedes tener mas de 3 Legionarios en tu Mazo Castillo. Cuando entra en juego, puedes buscar una copia de esta carta en tu mazo Castillo y ponerlo en tu mano.	Primer Bloque	Helenica	
-Pretoriano	imperio	257	257	Aliado	Heroe	3	1	Pretoriano no puede ser declarado atacante	Primer Bloque	Helenica	
-Gladiador	imperio	258	258	Aliado	Heroe	3	3	Si hace dano al mazo castillo oponente, puedes robar una carta.	Primer Bloque	Helenica	
-Minerva	imperio	259	259	Aliado	Olimpico	1	4	En tu fase de vigilia, solo una vez por turno y si tienes a Jupiter en juego, puedes mostrar tu mano para descartar 2 cartas de tu oponente al azar.	Primer Bloque	Helenica	
-Ondinas	imperio	260	260	Aliado	Olimpico	2	3	Durante el turno en que entra en juego, todos los Aliados en juego son Olimpicos.	Primer Bloque	Helenica	
-Vulcano	imperio	261	261	Aliado	Olimpico	3	4	Vulcano puede portar mas de un Arma, si porta mas de 2 Armas es indestructible.	Primer Bloque	Helenica	
-Criaturas del Caos	imperio	262	262	Aliado	Titan	3	2	Tu oponente puede pagar el coste de este Aliado y ponerlo en su linea de defensa. Se considera uno de sus Aliados hasta salir del juego.	Primer Bloque	Helenica	
-Atlante	imperio	263	263	Aliado	Titan	3	2	Cuando Atlante entra en juego, tu oponente debe botar una carta.	Primer Bloque	Helenica	
-Hipogrifo	imperio	264	264	Aliado	Titan	1	3	Cuando entra en juego, puedes buscar un Talisman en tu cementerio y ponerlo en tu mano.	Primer Bloque	Helenica	
-Pantera de Niebla	imperio	265	265	Aliado	Titan	2	3	Mientras este Aliado este en juego, tu oponente solo puede declarar ataque con 2 o mas Aliados.	Primer Bloque	Helenica	
-Gladius	imperio	266	266	Arma			4	El portador gana 1 a la fuerza. Si hace dano al mazo castillo oponente, este debe destruir uno de sus Aliados a eleccion y botar 3 cartas.	Primer Bloque	Helenica	
-Maquinaria de Guerra	imperio	267	267	Arma			3	Juega esta carta en tu linea de apoyo. En tu fase de vigilia, solo una vez por turno puedes pagar 2 oros para que tu oponente bote 3 cartas.	Primer Bloque	Helenica	
-Yelmo de Legionario	imperio	268	268	Arma			4	Yelmo de Legionario solo puede ser portada por un Aliado de Raza Heroe. En respuesta a que tu oponente tenga 5 o menos cartas en su Mazo Castillo, puedes desterrar Yelmo de Legionario para que tu oponente bote las cartas.	Primer Bloque	Helenica	
-Escudo Romano	imperio	269	269	Arma			1	Si el portador es destruido, genera tantos Oros como fuerza tenga.	Primer Bloque	Helenica	
-Armadura Legionaria	imperio	270	270	Arma			3	Si el portador de Armadura Legionaria es un Aliado de Raza Heroe puede bloquear a mas de un Aliado. Si el portador de Armadura Legionaria es de otra Raza, puede bloquear hasta 2 Aliados.	Primer Bloque	Helenica	
-Ariete	imperio	271	271	Arma			3	Juega a Ariete en tu Linea de Apoyo. En tu Fase de Vigilia, solo una vez por turno, puedes pagar 2 de Oro para que un Aliado gane 2 a la fuerza hasta el final del turno.	Primer Bloque	Helenica	
-Pilum	imperio	272	272	Arma			2	Si el portador es declarado atacante o bloqueador, tu oponente debe botar una carta.	Primer Bloque	Helenica	
-Daga Envenenada	imperio	273	273	Arma			3	El portador no puede atacar o bloquear a menos que page 2 oros.	Primer Bloque	Helenica	
-Red de Gladiador	imperio	274	274	Arma			2	Si el portador no es declarado atacante, los jugadores descartan 1 carta.	Primer Bloque	Helenica	
-Coliseo	imperio	275	275	Totem			3	Mientras esta carta este en juego, en respuesta a declarar tu ataque, puedes robar una carta por cada Aliado Atacante.	Primer Bloque	Helenica	
-Templo de Jupiter	imperio	276	276	Totem			4	Mientras tengas esta carta en juego, tus Aliados declarados atacantes son indestructibles.	Primer Bloque	Helenica	
-Totem Etrusco	imperio	277	277	Totem			5	Mientras esta carta este en juego, en tu fase de vigilia puedes pagar 3 oros para destruir cualquier carta oponente que no sea Oro. En su fase de vigilia, tu oponente puede pagar 5 oros para destruir esta carta.	Primer Bloque	Helenica	
-Catacumbas	imperio	278	278	Totem			4	Mientras esta carta este en juego, los Aliado imbloqueables no hacen dano al mazo castillo.	Primer Bloque	Helenica	
-Panteon	imperio	279	279	Totem			3	Mientras esta carta este en juego, si tienes uno o mas Aliados Olimpico en juego, tus Aliados ganan 2 a la fuerza.	Primer Bloque	Helenica	
-Termas	imperio	280	280	Totem			3	Mientras tengas esta carta en juego, en respuesta a que una de tus cartas Oro se destruida, puedes buscar 2 Oros en tu cementerio y ponerlos en tu mano.	Primer Bloque	Helenica	
-Murallas de Adriano	imperio	281	281	Totem			2	En tu fase de vigilia, puedes nombrar una raza de Aliado que tengas en juego. Hasta la fase final, todos los Aliados que controles ganan esa raza adicionalmente a su raza original.	Primer Bloque	Helenica	
-Romulo y Remo	imperio	282	282	Talisman			0	Unica. Genera 2 oros. Al finalizar tu turno, puedes robar una carta extra.	Primer Bloque	Helenica	
-Ambrosia	imperio	283	283	Talisman			5	Toma un Totem de la Linea de Apoyo oponente y ponlo en tu Linea de Apoyo. Se considera uno de tus Totems mientras permanezca en juego.	Primer Bloque	Helenica	
-Ataque de Anibal	imperio	284	284	Talisman			3	Destruye uno de tus Aliados de raza Heroe, y tu oponente debe botar 6 cartas.	Primer Bloque	Helenica	
-El Vesubio	imperio	285	285	Talisman			1	En respuesta a que tu oponente juegue o active una carta que destruya sus Oros, esta anulada o destruida. Tu oponente bota 3 cartas.	Primer Bloque	Helenica	
-Formacion de Tortuga	imperio	286	286	Talisman			4	En respuesta a declarar tu ataque por cada Aliado declarado atacante, tu oponente debe botar 2 cartas.	Primer Bloque	Helenica	
-Los Caminos de Roma	imperio	287	287	Talisman			5	Destruye una carta oponente. Tu oponente bota 2 cartas.	Primer Bloque	Helenica	
-Conspiradores	imperio	288	288	Talisman			4	En respuesta a un ataque oponente toma el control de uno de sus Aliados atacantes para declararlo bloqueador. Si no es destruido, en la fase final vuelve a la line de defensa oponente.	Primer Bloque	Helenica	
-Nombrado Emperador	imperio	289	289	Talisman			3	Baraja 3 cartas de tu cementerio a tu Mazo Castiillo.	Primer Bloque	Helenica	
-Ataque Fulminante	imperio	290	290	Talisman			4	Nombra una Raza de Aliado. Todos los Aliados en juego, de esa Raza, deben ser barajados en su Mazo Castillo.	Primer Bloque	Helenica	
-Animales de Circo	imperio	291	291	Talisman			4	Busca un Aliado en tu Mazo Castillo y ponlo en tu mano.	Primer Bloque	Helenica	
-Tribus Germanas	imperio	292	292	Talisman			6	Los Aliados que controles ganan 2 a la fuerza hasta en final del turno.	Primer Bloque	Helenica	
-Hunos	imperio	293	293	Talisman			3	En respuesta a declarar tu ataque, busca un Aliado en tu Cementerio y ponlo en juego. Debe ser declarado atacante.	Primer Bloque	Helenica	
-Celtas del Oeste	imperio	294	294	Talisman			0	Anula o destruye a Julio Cesar.	Primer Bloque	Helenica	
-Carrera de Carros	imperio	295	295	Talisman			2	En respuesta a la fase final, 2 de tus Aliados atacantes que no hayan sido bloqueados son agrupados.	Primer Bloque	Helenica	
-Rebelion	imperio	296	296	Talisman			1	Todos los Aliados que acompanen a Espartaco en el ataque, ganan 1 a la fuerza hasta el final del turno.	Primer Bloque	Helenica	
-Aceite de Oliva	imperio	297	297	Oro				En tu Fase de Vigilia, si Aceite de Oliva esta en tu Reserva de Oro, puedes desterrarlo para buscar 1 Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
-Arcas del Imperio	imperio	298	298	Oro				En Guerra de Talismanes, puedes destruir Arcas del Imperio para generar 2 Oros.	Primer Bloque	Helenica	
-Aguila Imperial	imperio	299	299	Oro				Mientras Aguila Imperial este en tu Reserva, los Aliados de fuerza 1 pierden su habilidad.	Primer Bloque	Helenica	
-Festin	imperio	300	300	Oro				En tu fase de vigilia, si este Oro esta en tu reserva, puedes descartar 2 cartas para robar una carta.	Primer Bloque	Helenica	
-											
-											
 Daana	hijos_de_daana	1	1	Aliado	Desafiante	1	1	Unica. Mientras este en juego, tus Aliados Desafiantes y Olimpicos no son afectados por Talismanes oponentes y si son destruidos, barajalos en tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
 El Dagda Mor	hijos_de_daana	2	2	Aliado	Desafiante	1	3	En tu fase de vigilia, solo una vez por turno, elige entre ver las 2 cartas superiores de tu Mazo Castillo y devolverlas en el mismo orden o barajar un Aliado de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
 Midyir	hijos_de_daana	3	3	Aliado	Desafiante	2	2	No tiene limite de Armas. Si porta mas de 1 Arma es imbloqueable.	Primer Bloque	Hijos de Daana	
@@ -1211,8 +1135,159 @@ Hoz de Oro	hijos_de_daana	233	233	Oro					Primer Bloque	Hijos de Daana
 Medallon	hijos_de_daana	234	234	Oro					Primer Bloque	Hijos de Daana	
 Corona de Campeon	hijos_de_daana	235	235	Oro					Primer Bloque	Hijos de Daana	
 Tejedora	hijos_de_daana	236	236	Oro					Primer Bloque	Hijos de Daana	
-											
-											
+Julio Cesar	imperio	237	237	Aliado	Heroe	2	4	Unica. Mientras esta carta este en juego, todos tus demas Aliados ganan 1 a la fuerza y son imbloqueables.	Primer Bloque	Helenica	
+Espartaco	imperio	238	238	Aliado	Heroe	2	3	En tu fase de vigilia, solo una vez por turno, puedes barajar de tu cementerio a tu mazo castillo tantas cartas como fuerza tenga este Aliado.	Primer Bloque	Helenica	
+Cesar Augusto	imperio	239	239	Aliado	Heroe	2	4	Sube este Aliado a tu mano para anular una carta oponente.	Primer Bloque	Helenica	
+Jupiter	imperio	240	240	Aliado	Olimpico	5	5	Cuando entra en juego, puedes buscar hasta 2 Aliados Eternos en tu Mazo Castillo y ponerlos en tu mano.	Primer Bloque	Helenica	
+Jano	imperio	241	241	Aliado	Olimpico	1	4	Cuando entra en juego, genera 2 oros. Cuando salga del juego sube un oro oponente a la mano de su dueno.	Primer Bloque	Helenica	
+Neptuno	imperio	242	242	Aliado	Olimpico	3	5	Unica. En respuesta a finalizar tu turno, puedes agrupar tu oro pagado.	Primer Bloque	Helenica	
+Leucrota	imperio	243	243	Aliado	Titan	4	5	Cuando entra en juego, destruye todos los Aliados de fuerza 3 o menos.	Primer Bloque	Helenica	
+Dragon Ceniza	imperio	244	244	Aliado	Titan	0	3	No puede ser declarado atacante. En respuesta a declararlo bloqueador, gana fuerza igual a la del Aliado que Bloquee.	Primer Bloque	Helenica	
+Constantino	imperio	245	245	Aliado	Heroe	1	3	Mientras estae Aliado permanezca en juego, si todos tus Aliados son Heroes, ganan 2 a la fuerza.	Primer Bloque	Helenica	
+Caligula	imperio	246	246	Aliado	Heroe	1	5	El turno en que entra en juego, todas las cartas en juego se consideran Aliados de fuerza 1 e indestructibles. Estso deben atacar o bloquear. En tu fase final todas las cartas vuelven a su posicion anterior.	Primer Bloque	Helenica	
+Neron	imperio	247	247	Aliado	Heroe	2	6	Cuando entra en juego destruye todos tus oros y tu oponente debe botar 6 cartas.	Primer Bloque	Helenica	
+Marte	imperio	248	248	Aliado	Olimpico	2	3	Cuando es declarado atacante o bloqueador los jugadores se saltan la guerra de Talismanes en este turno.	Primer Bloque	Helenica	
+Las Erinias	imperio	249	249	Aliado	Olimpico	1	4	Cuando entra en juego, destruye al Aliado oponente de mayor fuerza.	Primer Bloque	Helenica	
+Venus	imperio	250	250	Aliado	Olimpico	2	4	En tu Fase de Vigilia, solo una vez por turno, puedes ver las tres cartas superiores del Mazo Castillo oponente y devolverlas en el orden que quieras.	Primer Bloque	Helenica	
+Mercurio	imperio	251	251	Aliado	Olimpico	3	4	En respuesta a declarar tu ataque, puedes pagar 1 oro para que un Aliado Heroe sea imbloqueable hasta el final del turno.	Primer Bloque	Helenica	
+Dragon Oscuro	imperio	252	252	Aliado	Titan	2	3	Si es declarado atacante los aliados que lo acompanen ganan 1 a la fuerza.	Primer Bloque	Helenica	
+Gigante de la Niebla	imperio	253	253	Aliado	Titan	8	6	No puede ser agrupado a menos que en tu fase de vigilia pages 4 oros para agruparlo.	Primer Bloque	Helenica	
+Manticora	imperio	254	254	Aliado	Titan	2	5	En respuesta a que tu oponente baje un Aliado, paga el coste de ese Aliado para destruirlo.	Primer Bloque	Helenica	
+Deva	imperio	255	255	Aliado	Titan	2	5	No puede ser declarado atacante. En tu fase de vigilia, solo una vez por turno puedes pagar 2 Oros para subir un Aliado oponente a su mano.	Primer Bloque	Helenica	
+Legionario	imperio	256	256	Aliado	Heroe	2	4	Puedes tener mas de 3 Legionarios en tu Mazo Castillo. Cuando entra en juego, puedes buscar una copia de esta carta en tu mazo Castillo y ponerlo en tu mano.	Primer Bloque	Helenica	
+Pretoriano	imperio	257	257	Aliado	Heroe	3	1	Pretoriano no puede ser declarado atacante	Primer Bloque	Helenica	
+Gladiador	imperio	258	258	Aliado	Heroe	3	3	Si hace dano al mazo castillo oponente, puedes robar una carta.	Primer Bloque	Helenica	
+Minerva	imperio	259	259	Aliado	Olimpico	1	4	En tu fase de vigilia, solo una vez por turno y si tienes a Jupiter en juego, puedes mostrar tu mano para descartar 2 cartas de tu oponente al azar.	Primer Bloque	Helenica	
+Ondinas	imperio	260	260	Aliado	Olimpico	2	3	Durante el turno en que entra en juego, todos los Aliados en juego son Olimpicos.	Primer Bloque	Helenica	
+Vulcano	imperio	261	261	Aliado	Olimpico	3	4	Vulcano puede portar mas de un Arma, si porta mas de 2 Armas es indestructible.	Primer Bloque	Helenica	
+Criaturas del Caos	imperio	262	262	Aliado	Titan	3	2	Tu oponente puede pagar el coste de este Aliado y ponerlo en su linea de defensa. Se considera uno de sus Aliados hasta salir del juego.	Primer Bloque	Helenica	
+Atlante	imperio	263	263	Aliado	Titan	3	2	Cuando Atlante entra en juego, tu oponente debe botar una carta.	Primer Bloque	Helenica	
+Hipogrifo	imperio	264	264	Aliado	Titan	1	3	Cuando entra en juego, puedes buscar un Talisman en tu cementerio y ponerlo en tu mano.	Primer Bloque	Helenica	
+Pantera de Niebla	imperio	265	265	Aliado	Titan	2	3	Mientras este Aliado este en juego, tu oponente solo puede declarar ataque con 2 o mas Aliados.	Primer Bloque	Helenica	
+Gladius	imperio	266	266	Arma			4	El portador gana 1 a la fuerza. Si hace dano al mazo castillo oponente, este debe destruir uno de sus Aliados a eleccion y botar 3 cartas.	Primer Bloque	Helenica	
+Maquinaria de Guerra	imperio	267	267	Arma			3	Juega esta carta en tu linea de apoyo. En tu fase de vigilia, solo una vez por turno puedes pagar 2 oros para que tu oponente bote 3 cartas.	Primer Bloque	Helenica	
+Yelmo de Legionario	imperio	268	268	Arma			4	Yelmo de Legionario solo puede ser portada por un Aliado de Raza Heroe. En respuesta a que tu oponente tenga 5 o menos cartas en su Mazo Castillo, puedes desterrar Yelmo de Legionario para que tu oponente bote las cartas.	Primer Bloque	Helenica	
+Escudo Romano	imperio	269	269	Arma			1	Si el portador es destruido, genera tantos Oros como fuerza tenga.	Primer Bloque	Helenica	
+Armadura Legionaria	imperio	270	270	Arma			3	Si el portador de Armadura Legionaria es un Aliado de Raza Heroe puede bloquear a mas de un Aliado. Si el portador de Armadura Legionaria es de otra Raza, puede bloquear hasta 2 Aliados.	Primer Bloque	Helenica	
+Ariete	imperio	271	271	Arma			3	Juega a Ariete en tu Linea de Apoyo. En tu Fase de Vigilia, solo una vez por turno, puedes pagar 2 de Oro para que un Aliado gane 2 a la fuerza hasta el final del turno.	Primer Bloque	Helenica	
+Pilum	imperio	272	272	Arma			2	Si el portador es declarado atacante o bloqueador, tu oponente debe botar una carta.	Primer Bloque	Helenica	
+Daga Envenenada	imperio	273	273	Arma			3	El portador no puede atacar o bloquear a menos que page 2 oros.	Primer Bloque	Helenica	
+Red de Gladiador	imperio	274	274	Arma			2	Si el portador no es declarado atacante, los jugadores descartan 1 carta.	Primer Bloque	Helenica	
+Coliseo	imperio	275	275	Totem			3	Mientras esta carta este en juego, en respuesta a declarar tu ataque, puedes robar una carta por cada Aliado Atacante.	Primer Bloque	Helenica	
+Templo de Jupiter	imperio	276	276	Totem			4	Mientras tengas esta carta en juego, tus Aliados declarados atacantes son indestructibles.	Primer Bloque	Helenica	
+Totem Etrusco	imperio	277	277	Totem			5	Mientras esta carta este en juego, en tu fase de vigilia puedes pagar 3 oros para destruir cualquier carta oponente que no sea Oro. En su fase de vigilia, tu oponente puede pagar 5 oros para destruir esta carta.	Primer Bloque	Helenica	
+Catacumbas	imperio	278	278	Totem			4	Mientras esta carta este en juego, los Aliado imbloqueables no hacen dano al mazo castillo.	Primer Bloque	Helenica	
+Panteon	imperio	279	279	Totem			3	Mientras esta carta este en juego, si tienes uno o mas Aliados Olimpico en juego, tus Aliados ganan 2 a la fuerza.	Primer Bloque	Helenica	
+Termas	imperio	280	280	Totem			3	Mientras tengas esta carta en juego, en respuesta a que una de tus cartas Oro se destruida, puedes buscar 2 Oros en tu cementerio y ponerlos en tu mano.	Primer Bloque	Helenica	
+Murallas de Adriano	imperio	281	281	Totem			2	En tu fase de vigilia, puedes nombrar una raza de Aliado que tengas en juego. Hasta la fase final, todos los Aliados que controles ganan esa raza adicionalmente a su raza original.	Primer Bloque	Helenica	
+Romulo y Remo	imperio	282	282	Talisman			0	Unica. Genera 2 oros. Al finalizar tu turno, puedes robar una carta extra.	Primer Bloque	Helenica	
+Ambrosia	imperio	283	283	Talisman			5	Toma un Totem de la Linea de Apoyo oponente y ponlo en tu Linea de Apoyo. Se considera uno de tus Totems mientras permanezca en juego.	Primer Bloque	Helenica	
+Ataque de Anibal	imperio	284	284	Talisman			3	Destruye uno de tus Aliados de raza Heroe, y tu oponente debe botar 6 cartas.	Primer Bloque	Helenica	
+El Vesubio	imperio	285	285	Talisman			1	En respuesta a que tu oponente juegue o active una carta que destruya sus Oros, esta anulada o destruida. Tu oponente bota 3 cartas.	Primer Bloque	Helenica	
+Formacion de Tortuga	imperio	286	286	Talisman			4	En respuesta a declarar tu ataque por cada Aliado declarado atacante, tu oponente debe botar 2 cartas.	Primer Bloque	Helenica	
+Los Caminos de Roma	imperio	287	287	Talisman			5	Destruye una carta oponente. Tu oponente bota 2 cartas.	Primer Bloque	Helenica	
+Conspiradores	imperio	288	288	Talisman			4	En respuesta a un ataque oponente toma el control de uno de sus Aliados atacantes para declararlo bloqueador. Si no es destruido, en la fase final vuelve a la line de defensa oponente.	Primer Bloque	Helenica	
+Nombrado Emperador	imperio	289	289	Talisman			3	Baraja 3 cartas de tu cementerio a tu Mazo Castiillo.	Primer Bloque	Helenica	
+Ataque Fulminante	imperio	290	290	Talisman			4	Nombra una Raza de Aliado. Todos los Aliados en juego, de esa Raza, deben ser barajados en su Mazo Castillo.	Primer Bloque	Helenica	
+Animales de Circo	imperio	291	291	Talisman			4	Busca un Aliado en tu Mazo Castillo y ponlo en tu mano.	Primer Bloque	Helenica	
+Tribus Germanas	imperio	292	292	Talisman			6	Los Aliados que controles ganan 2 a la fuerza hasta en final del turno.	Primer Bloque	Helenica	
+Hunos	imperio	293	293	Talisman			3	En respuesta a declarar tu ataque, busca un Aliado en tu Cementerio y ponlo en juego. Debe ser declarado atacante.	Primer Bloque	Helenica	
+Celtas del Oeste	imperio	294	294	Talisman			0	Anula o destruye a Julio Cesar.	Primer Bloque	Helenica	
+Carrera de Carros	imperio	295	295	Talisman			2	En respuesta a la fase final, 2 de tus Aliados atacantes que no hayan sido bloqueados son agrupados.	Primer Bloque	Helenica	
+Rebelion	imperio	296	296	Talisman			1	Todos los Aliados que acompanen a Espartaco en el ataque, ganan 1 a la fuerza hasta el final del turno.	Primer Bloque	Helenica	
+Aceite de Oliva	imperio	297	297	Oro				En tu Fase de Vigilia, si Aceite de Oliva esta en tu Reserva de Oro, puedes desterrarlo para buscar 1 Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
+Arcas del Imperio	imperio	298	298	Oro				En Guerra de Talismanes, puedes destruir Arcas del Imperio para generar 2 Oros.	Primer Bloque	Helenica	
+Aguila Imperial	imperio	299	299	Oro				Mientras Aguila Imperial este en tu Reserva, los Aliados de fuerza 1 pierden su habilidad.	Primer Bloque	Helenica	
+Festin	imperio	300	300	Oro				En tu fase de vigilia, si este Oro esta en tu reserva, puedes descartar 2 cartas para robar una carta.	Primer Bloque	Helenica	
+Curandera	shogun_i	1	1	Aliado	Caballero	1	3	Mientras Curandera esté en juego, tus cartas reducen en 1 su coste.	Primer Bloque	Espada Sagrada	
+Duque Godofredo	shogun_i	2	2	Aliado	Caballero	2	2	Mientras Duque Godofredo esté en juego, todos tus Caballeros ganan +1 a la fuerza.	Primer Bloque	Espada Sagrada	
+Dragon de Magma	shogun_i	3	3	Aliado	Dragon	3	4	Cuando Dragón de Magma entra en juego, destruye un Aliado oponente.	Primer Bloque	Espada Sagrada	
+Capa de Invisibilidad	shogun_i	4	4	Talisman			2	Cuando entra en juego una carta oponente que no sea Oro, puedes jugar Capa de Invisibilidad para barajar esa carta en el Mazo Castillo de su dueño.	Primer Bloque	Espada Sagrada	
+Afrodita	shogun_i	5	5	Aliado	Olimpico	1	3	En tu Fase de Vigilia, nombra un tipo de carta que no sea Talismán. A continuación, mira la primera carta de tu Mazo Castillo y, si es de ese tipo, ponla en juego sin pagar su coste.	Primer Bloque	Helenica	1
+Julio Cesar	shogun_i	6	6	Aliado	Heroe	2	4	Carta Única. Mientras Julio César esté en juego, todos tus demás Aliados ganan 1 a la fuerza y son imbloqueables.	Primer Bloque	Helenica	
+La Serpiente Negra	shogun_i	7	7	Aliado	Sombra	2	4	Mientras La Serpiente Negra esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes barajar 1 carta de tu Mano para buscar 2 cartas en el Mazo Castillo oponente y desterrarlas. Carta Única e Indestructible.	Primer Bloque	Hijos de Daana	
+Red de Plata	shogun_i	8	8	Talisman			2	Anula un Aliado oponente.	Primer Bloque	Hijos de Daana	
+Tuatha de Danaan	shogun_i	9	9	Aliado	Desafiante	2	2	En tu Fase de Vigilia, puedes subir Tuatha de Danaan a tu Mano para robar 2 cartas. Carta Única.	Primer Bloque	Hijos de Daana	
+Fergus	shogun_i	10	10	Aliado	Defensor	1	2	En tu Fase de Vigilia y una vez por turno, destruye el Aliado oponente de mayor fuerza.	Primer Bloque	Hijos de Daana	
+Ra	shogun_i	11	11	Aliado	Eterno	4	5	Mientras Ra esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 5 cartas de su Mazo Castillo. En respuesta a que Ra sea destruido o desterrado, puedes descartar una carta para prevenirlo. Carta Única.	Primer Bloque	Dominios de Ra	
+Haquika	shogun_i	12	12	Aliado	Sacerdote	2	3	Indestructible, Cuando Haquika entra en juego, puedes elegir un Aliado oponente y ponerlo en tu Línea de Defensa. Si Haquika sale del juego, el Aliado vuelve a la Línea de Defensa oponente.	Primer Bloque	Dominios de Ra	
+Siete Contra Tebas	shogun_ii_alma_shinobi	1	0	Talisman			2	Cancela la habilidad de una carta oponente en juego que no sea Oro. Luego, puedes robar una carta de tu Mazo Castillo.	Primer Bloque	Helenica	
+Leonidas	shogun_ii_alma_shinobi	2	1	Aliado	Heroe	2	3	Sólo puedes tener un Leonidas en juego. Si controlas 2 o más Aliados de raza Héroe, en tu Fase Final roba una carta de tu Mazo Castillo	Primer Bloque	Helenica	
+Espartaco	shogun_ii_alma_shinobi	3	2	Aliado	Heroe	2	3	En tu Fase de Vigilia, sólo una vez por turno, puedes barajar de tu Cementerio a tu Mazo Castillo tantas cartas como fuerza tenga Espartaco.	Primer Bloque	Helenica	
+Idmon el Adivino	shogun_ii_alma_shinobi	4	3	Aliado	Heroe	1	3	En tu Fase de Vigilia, una vez por turno, puedes mirar la primera carta de tu Mazo Castillo. Si es un Aliado de raza Héroe, puedes jugarlo sin pagar su coste; si la carta no es un Héroe, envíala al Cementerio.	Primer Bloque	Helenica	
+Atenea	shogun_ii_alma_shinobi	5	4	Aliado	Olimpico	2	3	Cuando entra en juego, elige 4 cartas de tu Cementerio y barájalas en tu Mazo Castillo.	Primer Bloque	Helenica	
+Fenix	shogun_ii_alma_shinobi	6	5	Aliado	Olimpico	2	2	En tu Fase de Vigilia, si Fénix está en tu Cementerio, puedes pagar su coste y ponerlo en tu Línea de Defensa.	Primer Bloque	Helenica	
+El Gran Zeus	shogun_ii_alma_shinobi	7	6	Aliado	Olimpico	5	5	El Gran Zeus es indestructible. En tu Fase de Vigilia, sólo una vez por turno, puedes robar hasta 2 cartas. Carta Única.	Primer Bloque	Helenica	
+Prometeo	shogun_ii_alma_shinobi	8	7	Aliado	Titan	4	4	Prometeo puede atacar el turno que entra en juego. En respuesta a ser declarado atacante, puedes pagar 1 de Oro para que sea imbloqueable hasta el final del turno.	Primer Bloque	Helenica	
+Atlante	shogun_ii_alma_shinobi	9	8	Aliado	Titan	3	2	Cuando Atlante entra en juego, tu oponente debe botar una carta.	Primer Bloque	Helenica	
+Epimeteo	shogun_ii_alma_shinobi	10	9	Aliado	Titan	2	2	Si Epimeteo está en tu Cementerio, puedes pagar 2 de Oro para ponerlo en tu mano.	Primer Bloque	Helenica	
+La Ira de Tifon	shogun_ii_alma_shinobi	11	10	Talisman			4	Ambos jugadores descartan su mano y luego roban 4 cartas.	Primer Bloque	Helenica	
+Ira Ignea	shogun_ii_alma_shinobi	12	11	Talisman			3	Destruye un Aliado de fuerza 3 o menos. Puedes robar una carta.	Primer Bloque	Helenica	
+Micenas	shogun_ii_alma_shinobi	13	12	Totem			3	Mientras Micenas esté en juego, el coste de las cartas de anulación o en respuesta de tu oponente aumenta en 2.	Primer Bloque	Helenica	
+Ofrenda a los Dioses	shogun_ii_alma_shinobi	14	13	Oro				Si Ofrenda a los Dioses está en tu Reserva, todos tus Aliados de raza Olímpico ganan 1 a la fuerza.	Primer Bloque	Helenica	
+Helenica	shogun_ii_alma_shinobi	15	14	Aliado	Titan	1	1	Si tu oponente juega una carta de Aliado, puedes pagar su coste para anularlo. Carta Única.	Primer Bloque	Helenica	
+Aceite de Oliva	shogun_ii_alma_shinobi	16	15	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
+Aceite de Oliva	shogun_ii_alma_shinobi	17	16	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
+Aceite de Oliva	shogun_ii_alma_shinobi	18	17	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
+Aceite de Oliva	shogun_ii_alma_shinobi	19	18	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
+Invocar Chacales	shogun_iii_reino_de_las_sombras	1	0	Talisman			0	Única. Anula una carta que anule una de tus cartas.	Primer Bloque	Dominios de Ra	
+Guardia Real	shogun_iii_reino_de_las_sombras	2	1	Aliado	Caballero	3	2	Guardia Real puede atacar cuando entra en juego. Si en tu turno no ataca, debe ser destruido en la Fase Final.	Primer Bloque	Espada Sagrada	
+Cathach	shogun_iii_reino_de_las_sombras	3	2	Aliado	Dragon	2	3	Cuando Cathach entra en juego, puedes barajar 2 cartas de tu Cementerio en tu Mazo Castillo. Los Aliados oponentes pierden 1 a la fuerza mientras sólo controles Aliados de raza Dragón.	Primer Bloque	Espada Sagrada	
+Fe sin Limite	shogun_iii_reino_de_las_sombras	4	3	Talisman			1	Anula un Talismán.	Primer Bloque	Espada Sagrada	
+Carnwennan	shogun_iii_reino_de_las_sombras	5	4	Oro				Si Carnwennan está en tu Reserva de Oros, puedes desterrarlo para que una carta oponente que no sea Oro pierda su habilidad hasta la Fase Final.	Primer Bloque	Espada Sagrada	
+Perseo	shogun_iii_reino_de_las_sombras	6	5	Aliado	Heroe	2	2	En tu Fase de Vigilia, puedes desterrar a Perseo para barajar un Aliado oponente de coste 3 o menos.	Primer Bloque	Helenica	
+Medusa	shogun_iii_reino_de_las_sombras	7	6	Aliado	Titan	3	3	Medusa puede atacar cuando entra en juego. Si Medusa hace daño de combate al Mazo Castillo oponente, roba una carta de tu Mazo Castillo. No puede bloquear.	Primer Bloque	Helenica	
+Cuchulain	shogun_iii_reino_de_las_sombras	8	7	Aliado	Defensor	2	3	Si Cuchulain fuera a ser destruido puedes destruir otro Aliado que controles para prevenirlo. Si Cuchulain hace daño al Mazo Castillo oponente, puedes robar 2 cartas.	Primer Bloque	Hijos de Daana	
+Ashrays	shogun_iii_reino_de_las_sombras	9	8	Aliado	Desafiante	3	1	Para que Ashrays pueda ser declarado atacante, debes botar 2 cartas de tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
+Wyrm Abismal	shogun_iii_reino_de_las_sombras	10	9	Aliado	Sombra	4	4	Mientras Wyrm Abismal esté en juego, en respuesta a que uno de tus Aliados de raza Sombra sea destruido, tu oponente debe destruir uno de sus Aliados a su elección.	Primer Bloque	Hijos de Daana	
+Minas de Gruash	shogun_iii_reino_de_las_sombras	11	10	Totem			3	En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 5 cartas de su Mazo Castillo.	Primer Bloque	Hijos de Daana	
+Tamis	shogun_iii_reino_de_las_sombras	12	11	Aliado	Faraon	2	1	Si Tamis es declarado atacante, gana 2 a la fuerza. Si hace daño al Mazo Castillo oponente, tú recibes el mismo daño.	Primer Bloque	Dominios de Ra	
+Consumir las Aguas	shogun_iii_reino_de_las_sombras	13	12	Talisman			3	Única. No puede ser anulado. Destruye un Tótem en juego para buscar un Tótem en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Dominios de Ra	
+Oseye	shogun_iii_reino_de_las_sombras	14	13	Aliado	Sacerdote	3	2	Oseye no puede ser anulado. Puede atacar el turno que entra en juego. Puedes pagar el coste de Oseye para prevenir que sea destruido o desterrado y subirlo a tu Mano.	Primer Bloque	Dominios de Ra	
+Suma	shogun_iii_reino_de_las_sombras	15	14	Aliado	Sacerdote	2	3	Mientras Suma esté en juego, tus Aliados de raza Sacerdote ganan 1 a la fuerza. En respuesta a declarar tu bloqueo, tus demás Aliados de raza Sacerdote ganan 2 a la fuerza.	Primer Bloque	Dominios de Ra	
+Fragarach	shogun_iii_reino_de_las_sombras	16	15	Arma			2	El portador de Fragarach gana 1 a la fuerza. Cuando Fragarach entra en juego, puedes buscar un Aliado de coste 3 o menos en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Hijos de Daana	
+Fragarach	shogun_iii_reino_de_las_sombras	17	15	Arma			2	El portador de Fragarach gana 1 a la fuerza. Cuando Fragarach entra en juego, puedes buscar un Aliado de coste 3 o menos en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Hijos de Daana	
+Fragarach	shogun_iii_reino_de_las_sombras	18	15	Arma			2	El portador de Fragarach gana 1 a la fuerza. Cuando Fragarach entra en juego, puedes buscar un Aliado de coste 3 o menos en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Hijos de Daana	
+Aine	shogun_iii_reino_de_las_sombras	19	16	Aliado	Desafiante	3	3	Cuando Aine entra en juego, puedes mostrar un Aliado de raza Desafiante de tu Mano para desterrar un Aliado oponente.	Primer Bloque	Hijos de Daana	
+Takelot	shogun_iii_reino_de_las_sombras	20	17	Aliado	Sacerdote	2	3	Cuando Takelot entra en juego, nombra una carta para que ésta y todas sus copias pierdan su Habilidad mientras Takelot esté en juego. Si Takelot fuera a ser destruido o desterrado por una Habilidad oponente, puedes pagar 2 Oros para prevenirlo.	Primer Bloque	Dominios de Ra	
+Draig Ifanc	shogun_iv_luna_carmesí	1	2	Aliado	Dragon	2	3	Cuando entra en juego, puedes robar una carta. Si es destruido o barajado del juego y solo controlabas Aliados de raza Dragon, puedes buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Espada Sagrada	
+Hera	shogun_iv_luna_carmesí	2	4	Aliado	Olimpico	2	4	Una vez por turno, si un Aliado de raza Olimpico es afectado por una habilidad oponente, puedes desterrar una carta de tu Mano para prevenirlo.	Primer Bloque	Helenica	1
+Caturix	shogun_iv_luna_carmesí	3	8	Aliado	Desafiante	3	2	Cuando entra en juego, baraja hasta cuatro Oros y/o Aliados de raza Desafiante de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
+Laegerie	shogun_iv_luna_carmesí	4	9	Aliado	Sombra	3	3	Puede atacar el turno que entra en juego. Si este Aliado es bloqueado, duplica su fuerza hasta la Fase Final.	Primer Bloque	Hijos de Daana	1
+Heka	shogun_iv_luna_carmesí	5	12	Aliado	Eterno	2	2	En tu Fase de Vigilia, una vez por turno, puedes pagar 1 Oro para robar una carta extra en tu Fase Final.	Primer Bloque	Dominios de Ra	
+Expulsion de Titanes	shogun_iv_luna_carmesí	6	14	Talisman			3	Unica. Destierra un Aliado oponente. Si el Aliado era de raza Titan, tu oponente bota 3 cartas.	Primer Bloque	Helenica	1
+Flecha Acida	shogun_iv_luna_carmesí	7	15	Talisman			2	Destruye un Aliado oponente de fuerza 2 o menos. Luego, roba una carta.	Primer Bloque	Espada Sagrada	
+Arbol de Sangre	shogun_iv_luna_carmesí	8	19	Oro				Cuando entra en juego, todos los jugadores botan dos cartas de su Mazo Castillo. Luego, baraja una carta de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
+Alas de Druida	shogun_iv_luna_carmesí	9	20	Talisman			2	Busca un Aliado de coste 2 o menos en tu Cementerio y ponlo en tu Mano. Carta Unica.	Primer Bloque	Hijos de Daana	
+Resplandor de Heka	shogun_iv_luna_carmesí	10	21	Talisman			2	Cuando se juegue una carta que no sea Talisman, puedes jugar a Resplandor de Heka para que esa carta entre en juego sin habilidad hasta la Fase Final. Luego, puedes robar una carta. Si controlas a Heka, puedes robar una carta adicional.	Primer Bloque	Dominios de Ra	
+Ares	shogun_iv_luna_carmesí	11	22	Aliado	Olimpico	2	3	Ares puede atacar cuando entra en juego. En Guerra de Talismanes, una vez por turno, puedes pagar 2 de Oro para cancelar el ataque o bloqueo oponente.	Primer Bloque	Helenica	1
+Diadema Feerica	shogun_iv_luna_carmesí	12	23	Oro				Solo puedes activar una Diadema Feerica por turno. Si controlas 2 o mas Aliados de una misma raza, puedes pagar este Oro para barajar una carta de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
+Goblin	shogun_iv_luna_carmesí	13	25	Aliado	Faerie	2	2	Cuando entra en juego, puedes buscar una carta Goblin en tu Mazo Castillo y ponerla en tu Mano. Si tienes 3 o mas cartas Goblin en juego, este Aliado es Imbloqueable.	Primer Bloque	Espada Sagrada	1
+Minotauro	shogun_iv_luna_carmesí	14	27	Aliado	Titan	1	2	Este Aliado gana 1 a la fuerza por cada Minotauro en juego.	Primer Bloque	Helenica	
+Tadg El Druida	shogun_iv_luna_carmesí	15	28	Aliado	Defensor	4	2	No puede ser declarado atacante. Cuando entra en juego, puedes mirar las cuatro primeras cartas de tu Mazo Castillo. Luego, puedes poner un Oro o un Aliado Druida en tu Mano y las demas cartas en la parte inferior de tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
+Zagreus	shogun_iv_luna_carmesí	16	31	Aliado	Olimpico	2	3	Puedes barajar este Aliado en tu Mazo Castillo para anular un Aliado oponente. En tu Fase de Vigilia, si este Aliado esta en tu Cementerio, puedes pagar 4 Oros para jugarlo sin pagar su coste.	Primer Bloque	Helenica	
+Orcos	shogun_iv_luna_carmesí	17	33	Aliado	Sombra	2	2	Imbloqueable. Puede atacar cuando entra en juego. Cuando hace dano al Mazo Castillo oponente, y controlas 2 o mas Aliados de raza Sombra, puedes botar una carta para robar una carta.	Primer Bloque	Hijos de Daana	
+Joya Amatista	shogun_iv_luna_carmesí	18	35	Oro				Unica. En tu Fase de Vigilia, puedes desterrar este Oro de tu Reserva para jugar un Aliado de tu Cementerio pagando su coste.	Primer Bloque	Hijos de Daana	
+Merenptah	shogun_iv_luna_carmesí	19	39	Aliado	Faraon	2	2	Cuando entra en juego, puedes elegir otro Aliado que controles para que sea Imbloqueable hasta la Fase Final. Si ese Aliado hace dano al Mazo Castillo oponente este turno, puedes robar una carta en tu Fase Final.	Primer Bloque	Dominios de Ra	
+Despertar	shogun_iv_luna_carmesí	20	42	Talisman			1	Unica. Mira la mano de tu oponente y descartale un Talisman. Luego, tu oponente puede elegir robar 1 carta, si lo hace, tu robas 2 cartas.	Primer Bloque	Hijos de Daana	1
+Sir Erec	shogun_iv_sol_naciente	1	1	Aliado	Caballero	2	2	Puede atacar cuando entra en juego. Cuando es declarado atacante, puedes barajar 1 carta o 2 Aliados de raza Caballero de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
+Taliesin	shogun_iv_sol_naciente	2	3	Aliado	Faerie	2	4	Solo puedes tener un Taliesin en juego. Cuando entra en juego, puedes buscar un Aliado de raza Faerie en tu Mazo Castillo y jugarlo sin pagar su coste.	Primer Bloque	Hijos de Daana	1
+Cronos	shogun_iv_sol_naciente	3	5	Aliado	Titan	5	5	En tu Fase de Vigilia, una vez por turno, puedes pagar 3 de Oro o destruir un Aliado de raza Titan que controles para destruir un Aliado oponente. En tu Fase Final, puedes agrupar tus cartas. Carta Unica.	Primer Bloque	Helenica	1
+Teseo de Atenas	shogun_iv_sol_naciente	4	6	Aliado	Heroe	4	4	Puede atacar cuando entra en juego. Cuando hace dano al Mazo Castillo oponente, y controlas 2 o mas Aliados de raza Heroe, puedes destruir un Aliado en juego.	Primer Bloque	Helenica	
+Brian Boru	shogun_iv_sol_naciente	5	7	Aliado	Defensor	2	2	Puede atacar cuando entra en juego. Cuando entra en juego, puedes elegir un Aliado oponente en la Linea de Defensa y moverlo a la Linea de Ataque.	Primer Bloque	Hijos de Daana	
+Ahmosis el de Fuego	shogun_iv_sol_naciente	6	10	Aliado	Faraon	2	3	Mientras este Aliado esta en tu Linea de Defensa, tus Aliados ganan 1 a la fuerza. Puedes pagar 2 Oros para prevenir que este Aliado sea afectado por una habilidad oponente, luego debes subirlo a tu Mano.	Primer Bloque	Dominios de Ra	
+Djedefhor	shogun_iv_sol_naciente	7	11	Aliado	Sacerdote	3	3	Solo puedes tener un Djedefhor en juego. Cuando entra en juego, roba dos cartas. Cuando sale del juego, si solo controlabas Aliados de raza Sacerdote, baraja una carta de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Dominios de Ra	
+Traicion de Bruto	shogun_iv_sol_naciente	8	13	Talisman			2	Baraja un Aliado en juego que tenga algun modificador de fuerza.	Primer Bloque	Helenica	
+Bec de corbin	shogun_iv_sol_naciente	9	16	Arma			2	El portador gana 2 a la fuerza. Cuando entra en juego, puedes buscar un Arma en tu Mazo Castillo o Cementerio y ponerla en tu Mano.	Primer Bloque	Espada Sagrada	
+Milano Rojo	shogun_iv_sol_naciente	10	17	Oro				Si este Oro esta en tu Reserva de Oro, puedes desterrarlo para barajar dos cartas de tu Cementerio a tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
+Toro Apis	shogun_iv_sol_naciente	11	18	Oro				Indestructible. Puedes pagar este Oro para que un Aliado oponente pierda 1 a la fuerza hasta la Fase Final.	Primer Bloque	Dominios de Ra	
+Corona de Arturo	shogun_iv_sol_naciente	12	24	Oro				Mientras controles 2 o mas Aliados, los Oros son indestructibles. Si esta carta esta en tu Cementerio, puedes desterrarla para robar 1 carta.	Primer Bloque	Espada Sagrada	
+Hemera	shogun_iv_sol_naciente	13	26	Aliado	Olimpico	1	1	Cuando entra en juego, puedes mirar las tres primeras cartas de tu Mazo Castillo y ordenarlas.	Primer Bloque	Helenica	
+Beleth	shogun_iv_sol_naciente	14	29	Aliado	Desafiante	3	2	Cuando entra en juego, puedes descartar una carta de tu mano para buscar en tu Mazo Castillo un Aliado de raza Desafiante de coste 3 o menos y ponerlo en tu mano.	Primer Bloque	Hijos de Daana	
+Morrigu	shogun_iv_sol_naciente	15	30	Aliado	Desafiante	2	2	Solo puedes controlar una Morrigu. Una vez por turno, puedes desterrar una carta del cementerio oponente.	Primer Bloque	Hijos de Daana	
+Corff	shogun_iv_sol_naciente	16	32	Aliado	Sombra	1	1	Imbloqueable. Cuando este Aliado es declarado atacante, elige hasta 2 Aliados que lo acompanen para que ganen 1 a la fuerza hasta la Fase Final.	Primer Bloque	Hijos de Daana	
+Pilar Botero	shogun_iv_sol_naciente	17	34	Oro				En tu Fase de Vigilia, una vez por turno, puedes pagar este Oro y otro Oro que controles para que un Aliado sea Imbloqueable hasta la Fase Final.	Primer Bloque	Hijos de Daana	
+Llamarada Impia	shogun_iv_sol_naciente	18	36	Talisman			6	Destruye todos los Aliados en juego. Luego, cada jugador destierra las dos primeras cartas de su Mazo Castillo.	Primer Bloque	Hijos de Daana	
 Macha	tierras_altas	237	237	Aliado	Desafiante	3	4	Mientra este Aliado este en juego, todos los Aliados en juego pierden sus modificadores de fuerza y son Indestructibles.	Primer Bloque	Hijos de Daana	
 Arianrhod	tierras_altas	238	238	Aliado	Desafiante	1	3	Cuando Arianrhod entra en juego, puedes tomar tantas cartas de la parte superior de tu Mazo Castillo como cartas tengas en juego y devolverlas en el orden que quieras.	Primer Bloque	Hijos de Daana	
 Dewi	tierras_altas	239	239	Aliado	Desafiante	3	4	En tu fase de vigilia, solo una vez por turno, escoge entre Sombra o Dragon. Todos los Aliados se consideran de esa raza.	Primer Bloque	Hijos de Daana	
@@ -1341,100 +1416,3 @@ Martillo Pesado	tierras_altas	361	361	Arma			2	El portador de Martillo Pesado so
 Hacha Doble	tierras_altas	362	362	Arma			4	El Aliado que destruya al portador, no hace dano al Mazo Castillo.	Primer Bloque	Hijos de Daana	
 Sigian Dei	tierras_altas	363	363	Arma			2	El portador no puede ser declarado bloqueador.	Primer Bloque	Hijos de Daana	
 Yelmo Scot	tierras_altas	364	364	Arma			3	El portador de Yelmo Scot gana 2 a la fuerza.	Primer Bloque	Hijos de Daana	
-											
-											
-Curandera	shogun_I	1	1	Aliado	Caballero	1	3	Mientras Curandera esté en juego, tus cartas reducen en 1 su coste.	Primer Bloque	Espada Sagrada	
-Duque Godofredo	shogun_I	2	2	Aliado	Caballero	2	2	Mientras Duque Godofredo esté en juego, todos tus Caballeros ganan +1 a la fuerza.	Primer Bloque	Espada Sagrada	
-Dragon de Magma	shogun_I	3	3	Aliado	Dragon	3	4	Cuando Dragón de Magma entra en juego, destruye un Aliado oponente.	Primer Bloque	Espada Sagrada	
-Capa de Invisibilidad	shogun_I	4	4	Talisman			2	Cuando entra en juego una carta oponente que no sea Oro, puedes jugar Capa de Invisibilidad para barajar esa carta en el Mazo Castillo de su dueño.	Primer Bloque	Espada Sagrada	
-Afrodita	shogun_I	5	5	Aliado	Olimpico	1	3	En tu Fase de Vigilia, nombra un tipo de carta que no sea Talismán. A continuación, mira la primera carta de tu Mazo Castillo y, si es de ese tipo, ponla en juego sin pagar su coste.	Primer Bloque	Helenica	1
-Julio Cesar	shogun_I	6	6	Aliado	Heroe	2	4	Carta Única. Mientras Julio César esté en juego, todos tus demás Aliados ganan 1 a la fuerza y son imbloqueables.	Primer Bloque	Helenica	
-La Serpiente Negra	shogun_I	7	7	Aliado	Sombra	2	4	Mientras La Serpiente Negra esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes barajar 1 carta de tu Mano para buscar 2 cartas en el Mazo Castillo oponente y desterrarlas. Carta Única e Indestructible.	Primer Bloque	Hijos de Daana	
-Red de Plata	shogun_I	8	8	Talisman			2	Anula un Aliado oponente.	Primer Bloque	Hijos de Daana	
-Tuatha de Danaan	shogun_I	9	9	Aliado	Desafiante	2	2	En tu Fase de Vigilia, puedes subir Tuatha de Danaan a tu Mano para robar 2 cartas. Carta Única.	Primer Bloque	Hijos de Daana	
-Fergus	shogun_I	10	10	Aliado	Defensor	1	2	En tu Fase de Vigilia y una vez por turno, destruye el Aliado oponente de mayor fuerza.	Primer Bloque	Hijos de Daana	
-Ra	shogun_I	11	11	Aliado	Eterno	4	5	Mientras Ra esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 5 cartas de su Mazo Castillo. En respuesta a que Ra sea destruido o desterrado, puedes descartar una carta para prevenirlo. Carta Única.	Primer Bloque	Dominios de Ra	
-Haquika	shogun_I	12	12	Aliado	Sacerdote	2	3	Indestructible, Cuando Haquika entra en juego, puedes elegir un Aliado oponente y ponerlo en tu Línea de Defensa. Si Haquika sale del juego, el Aliado vuelve a la Línea de Defensa oponente.	Primer Bloque	Dominios de Ra	
-											
-											
-Siete Contra Tebas	shogun_II_alma_shinobi	1	0	Talisman			2	Cancela la habilidad de una carta oponente en juego que no sea Oro. Luego, puedes robar una carta de tu Mazo Castillo.	Primer Bloque	Helenica	
-Leonidas	shogun_II_alma_shinobi	2	1	Aliado	Heroe	2	3	Sólo puedes tener un Leonidas en juego. Si controlas 2 o más Aliados de raza Héroe, en tu Fase Final roba una carta de tu Mazo Castillo	Primer Bloque	Helenica	
-Espartaco	shogun_II_alma_shinobi	3	2	Aliado	Heroe	2	3	En tu Fase de Vigilia, sólo una vez por turno, puedes barajar de tu Cementerio a tu Mazo Castillo tantas cartas como fuerza tenga Espartaco.	Primer Bloque	Helenica	
-Idmon el Adivino	shogun_II_alma_shinobi	4	3	Aliado	Heroe	1	3	En tu Fase de Vigilia, una vez por turno, puedes mirar la primera carta de tu Mazo Castillo. Si es un Aliado de raza Héroe, puedes jugarlo sin pagar su coste; si la carta no es un Héroe, envíala al Cementerio.	Primer Bloque	Helenica	
-Atenea	shogun_II_alma_shinobi	5	4	Aliado	Olimpico	2	3	Cuando entra en juego, elige 4 cartas de tu Cementerio y barájalas en tu Mazo Castillo.	Primer Bloque	Helenica	
-Fenix	shogun_II_alma_shinobi	6	5	Aliado	Olimpico	2	2	En tu Fase de Vigilia, si Fénix está en tu Cementerio, puedes pagar su coste y ponerlo en tu Línea de Defensa.	Primer Bloque	Helenica	
-El Gran Zeus	shogun_II_alma_shinobi	7	6	Aliado	Olimpico	5	5	El Gran Zeus es indestructible. En tu Fase de Vigilia, sólo una vez por turno, puedes robar hasta 2 cartas. Carta Única.	Primer Bloque	Helenica	
-Prometeo	shogun_II_alma_shinobi	8	7	Aliado	Titan	4	4	Prometeo puede atacar el turno que entra en juego. En respuesta a ser declarado atacante, puedes pagar 1 de Oro para que sea imbloqueable hasta el final del turno.	Primer Bloque	Helenica	
-Atlante	shogun_II_alma_shinobi	9	8	Aliado	Titan	3	2	Cuando Atlante entra en juego, tu oponente debe botar una carta.	Primer Bloque	Helenica	
-Epimeteo	shogun_II_alma_shinobi	10	9	Aliado	Titan	2	2	Si Epimeteo está en tu Cementerio, puedes pagar 2 de Oro para ponerlo en tu mano.	Primer Bloque	Helenica	
-La Ira de Tifon	shogun_II_alma_shinobi	11	10	Talisman			4	Ambos jugadores descartan su mano y luego roban 4 cartas.	Primer Bloque	Helenica	
-Ira Ignea	shogun_II_alma_shinobi	12	11	Talisman			3	Destruye un Aliado de fuerza 3 o menos. Puedes robar una carta.	Primer Bloque	Helenica	
-Micenas	shogun_II_alma_shinobi	13	12	Totem			3	Mientras Micenas esté en juego, el coste de las cartas de anulación o en respuesta de tu oponente aumenta en 2.	Primer Bloque	Helenica	
-Ofrenda a los Dioses	shogun_II_alma_shinobi	14	13	Oro				Si Ofrenda a los Dioses está en tu Reserva, todos tus Aliados de raza Olímpico ganan 1 a la fuerza.	Primer Bloque	Helenica	
-Helenica	shogun_II_alma_shinobi	15	14	Aliado	Titan	1	1	Si tu oponente juega una carta de Aliado, puedes pagar su coste para anularlo. Carta Única.	Primer Bloque	Helenica	
-Aceite de Oliva	shogun_II_alma_shinobi	16	15	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
-Aceite de Oliva	shogun_II_alma_shinobi	17	16	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
-Aceite de Oliva	shogun_II_alma_shinobi	18	17	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
-Aceite de Oliva	shogun_II_alma_shinobi	19	18	Oro				En tu Fase de Vigilia, si Aceite de Oliva está en tu Reserva, puedes desterrarlo para buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Helenica	
-											
-											
-Invocar Chacales	shogun_III_reino_de_las_sombras	1	0	Talisman			0	Única. Anula una carta que anule una de tus cartas.	Primer Bloque	Dominios de Ra	
-Guardia Real	shogun_III_reino_de_las_sombras	2	1	Aliado	Caballero	3	2	Guardia Real puede atacar cuando entra en juego. Si en tu turno no ataca, debe ser destruido en la Fase Final.	Primer Bloque	Espada Sagrada	
-Cathach	shogun_III_reino_de_las_sombras	3	2	Aliado	Dragon	2	3	Cuando Cathach entra en juego, puedes barajar 2 cartas de tu Cementerio en tu Mazo Castillo. Los Aliados oponentes pierden 1 a la fuerza mientras sólo controles Aliados de raza Dragón.	Primer Bloque	Espada Sagrada	
-Fe sin Limite	shogun_III_reino_de_las_sombras	4	3	Talisman			1	Anula un Talismán.	Primer Bloque	Espada Sagrada	
-Carnwennan	shogun_III_reino_de_las_sombras	5	4	Oro				Si Carnwennan está en tu Reserva de Oros, puedes desterrarlo para que una carta oponente que no sea Oro pierda su habilidad hasta la Fase Final.	Primer Bloque	Espada Sagrada	
-Perseo	shogun_III_reino_de_las_sombras	6	5	Aliado	Heroe	2	2	En tu Fase de Vigilia, puedes desterrar a Perseo para barajar un Aliado oponente de coste 3 o menos.	Primer Bloque	Helenica	
-Medusa	shogun_III_reino_de_las_sombras	7	6	Aliado	Titan	3	3	Medusa puede atacar cuando entra en juego. Si Medusa hace daño de combate al Mazo Castillo oponente, roba una carta de tu Mazo Castillo. No puede bloquear.	Primer Bloque	Helenica	
-Cuchulain	shogun_III_reino_de_las_sombras	8	7	Aliado	Defensor	2	3	Si Cuchulain fuera a ser destruido puedes destruir otro Aliado que controles para prevenirlo. Si Cuchulain hace daño al Mazo Castillo oponente, puedes robar 2 cartas.	Primer Bloque	Hijos de Daana	
-Ashrays	shogun_III_reino_de_las_sombras	9	8	Aliado	Desafiante	3	1	Para que Ashrays pueda ser declarado atacante, debes botar 2 cartas de tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
-Wyrm Abismal	shogun_III_reino_de_las_sombras	10	9	Aliado	Sombra	4	4	Mientras Wyrm Abismal esté en juego, en respuesta a que uno de tus Aliados de raza Sombra sea destruido, tu oponente debe destruir uno de sus Aliados a su elección.	Primer Bloque	Hijos de Daana	
-Minas de Gruash	shogun_III_reino_de_las_sombras	11	10	Totem			3	En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 5 cartas de su Mazo Castillo.	Primer Bloque	Hijos de Daana	
-Tamis	shogun_III_reino_de_las_sombras	12	11	Aliado	Faraon	2	1	Si Tamis es declarado atacante, gana 2 a la fuerza. Si hace daño al Mazo Castillo oponente, tú recibes el mismo daño.	Primer Bloque	Dominios de Ra	
-Consumir las Aguas	shogun_III_reino_de_las_sombras	13	12	Talisman			3	Única. No puede ser anulado. Destruye un Tótem en juego para buscar un Tótem en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Dominios de Ra	
-Oseye	shogun_III_reino_de_las_sombras	14	13	Aliado	Sacerdote	3	2	Oseye no puede ser anulado. Puede atacar el turno que entra en juego. Puedes pagar el coste de Oseye para prevenir que sea destruido o desterrado y subirlo a tu Mano.	Primer Bloque	Dominios de Ra	
-Suma	shogun_III_reino_de_las_sombras	15	14	Aliado	Sacerdote	2	3	Mientras Suma esté en juego, tus Aliados de raza Sacerdote ganan 1 a la fuerza. En respuesta a declarar tu bloqueo, tus demás Aliados de raza Sacerdote ganan 2 a la fuerza.	Primer Bloque	Dominios de Ra	
-Fragarach	shogun_III_reino_de_las_sombras	16	15	Arma			2	El portador de Fragarach gana 1 a la fuerza. Cuando Fragarach entra en juego, puedes buscar un Aliado de coste 3 o menos en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Hijos de Daana	
-Fragarach	shogun_III_reino_de_las_sombras	17	15	Arma			2	El portador de Fragarach gana 1 a la fuerza. Cuando Fragarach entra en juego, puedes buscar un Aliado de coste 3 o menos en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Hijos de Daana	
-Fragarach	shogun_III_reino_de_las_sombras	18	15	Arma			2	El portador de Fragarach gana 1 a la fuerza. Cuando Fragarach entra en juego, puedes buscar un Aliado de coste 3 o menos en tu Mazo Castillo y ponerlo en tu Mano.	Primer Bloque	Hijos de Daana	
-Aine	shogun_III_reino_de_las_sombras	19	16	Aliado	Desafiante	3	3	Cuando Aine entra en juego, puedes mostrar un Aliado de raza Desafiante de tu Mano para desterrar un Aliado oponente.	Primer Bloque	Hijos de Daana	
-Takelot	shogun_III_reino_de_las_sombras	20	17	Aliado	Sacerdote	2	3	Cuando Takelot entra en juego, nombra una carta para que ésta y todas sus copias pierdan su Habilidad mientras Takelot esté en juego. Si Takelot fuera a ser destruido o desterrado por una Habilidad oponente, puedes pagar 2 Oros para prevenirlo.	Primer Bloque	Dominios de Ra	
-											
-											
-Sir Erec	shogun_IV_sol_naciente	1	1	Aliado	Caballero	2	2	Puede atacar cuando entra en juego. Cuando es declarado atacante, puedes barajar 1 carta o 2 Aliados de raza Caballero de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
-Draig Ifanc	shogun_IV_luna_carmesí	1	2	Aliado	Dragon	2	3	Cuando entra en juego, puedes robar una carta. Si es destruido o barajado del juego y solo controlabas Aliados de raza Dragon, puedes buscar un Oro en tu Mazo Castillo y ponerlo en juego.	Primer Bloque	Espada Sagrada	
-Taliesin	shogun_IV_sol_naciente	2	3	Aliado	Faerie	2	4	Solo puedes tener un Taliesin en juego. Cuando entra en juego, puedes buscar un Aliado de raza Faerie en tu Mazo Castillo y jugarlo sin pagar su coste.	Primer Bloque	Hijos de Daana	1
-Hera	shogun_IV_luna_carmesí	2	4	Aliado	Olimpico	2	4	Una vez por turno, si un Aliado de raza Olimpico es afectado por una habilidad oponente, puedes desterrar una carta de tu Mano para prevenirlo.	Primer Bloque	Helenica	1
-Cronos	shogun_IV_sol_naciente	3	5	Aliado	Titan	5	5	En tu Fase de Vigilia, una vez por turno, puedes pagar 3 de Oro o destruir un Aliado de raza Titan que controles para destruir un Aliado oponente. En tu Fase Final, puedes agrupar tus cartas. Carta Unica.	Primer Bloque	Helenica	1
-Teseo de Atenas	shogun_IV_sol_naciente	4	6	Aliado	Heroe	4	4	Puede atacar cuando entra en juego. Cuando hace dano al Mazo Castillo oponente, y controlas 2 o mas Aliados de raza Heroe, puedes destruir un Aliado en juego.	Primer Bloque	Helenica	
-Brian Boru	shogun_IV_sol_naciente	5	7	Aliado	Defensor	2	2	Puede atacar cuando entra en juego. Cuando entra en juego, puedes elegir un Aliado oponente en la Linea de Defensa y moverlo a la Linea de Ataque.	Primer Bloque	Hijos de Daana	
-Ahmosis el de Fuego	shogun_IV_sol_naciente	6	10	Aliado	Faraon	2	3	Mientras este Aliado esta en tu Linea de Defensa, tus Aliados ganan 1 a la fuerza. Puedes pagar 2 Oros para prevenir que este Aliado sea afectado por una habilidad oponente, luego debes subirlo a tu Mano.	Primer Bloque	Dominios de Ra	
-Caturix	shogun_IV_luna_carmesí	3	8	Aliado	Desafiante	3	2	Cuando entra en juego, baraja hasta cuatro Oros y/o Aliados de raza Desafiante de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
-Laegerie	shogun_IV_luna_carmesí	4	9	Aliado	Sombra	3	3	Puede atacar el turno que entra en juego. Si este Aliado es bloqueado, duplica su fuerza hasta la Fase Final.	Primer Bloque	Hijos de Daana	1
-Djedefhor	shogun_IV_sol_naciente	7	11	Aliado	Sacerdote	3	3	Solo puedes tener un Djedefhor en juego. Cuando entra en juego, roba dos cartas. Cuando sale del juego, si solo controlabas Aliados de raza Sacerdote, baraja una carta de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Dominios de Ra	
-Traicion de Bruto	shogun_IV_sol_naciente	8	13	Talisman			2	Baraja un Aliado en juego que tenga algun modificador de fuerza.	Primer Bloque	Helenica	
-Heka	shogun_IV_luna_carmesí	5	12	Aliado	Eterno	2	2	En tu Fase de Vigilia, una vez por turno, puedes pagar 1 Oro para robar una carta extra en tu Fase Final.	Primer Bloque	Dominios de Ra	
-Bec de corbin	shogun_IV_sol_naciente	9	16	Arma			2	El portador gana 2 a la fuerza. Cuando entra en juego, puedes buscar un Arma en tu Mazo Castillo o Cementerio y ponerla en tu Mano.	Primer Bloque	Espada Sagrada	
-Expulsion de Titanes	shogun_IV_luna_carmesí	6	14	Talisman			3	Unica. Destierra un Aliado oponente. Si el Aliado era de raza Titan, tu oponente bota 3 cartas.	Primer Bloque	Helenica	1
-Flecha Acida	shogun_IV_luna_carmesí	7	15	Talisman			2	Destruye un Aliado oponente de fuerza 2 o menos. Luego, roba una carta.	Primer Bloque	Espada Sagrada	
-Milano Rojo	shogun_IV_sol_naciente	10	17	Oro				Si este Oro esta en tu Reserva de Oro, puedes desterrarlo para barajar dos cartas de tu Cementerio a tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
-Toro Apis	shogun_IV_sol_naciente	11	18	Oro				Indestructible. Puedes pagar este Oro para que un Aliado oponente pierda 1 a la fuerza hasta la Fase Final.	Primer Bloque	Dominios de Ra	
-Corona de Arturo	shogun_IV_sol_naciente	12	24	Oro				Mientras controles 2 o mas Aliados, los Oros son indestructibles. Si esta carta esta en tu Cementerio, puedes desterrarla para robar 1 carta.	Primer Bloque	Espada Sagrada	
-Arbol de Sangre	shogun_IV_luna_carmesí	8	19	Oro				Cuando entra en juego, todos los jugadores botan dos cartas de su Mazo Castillo. Luego, baraja una carta de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
-Alas de Druida	shogun_IV_luna_carmesí	9	20	Talisman			2	Busca un Aliado de coste 2 o menos en tu Cementerio y ponlo en tu Mano. Carta Unica.	Primer Bloque	Hijos de Daana	
-Resplandor de Heka	shogun_IV_luna_carmesí	10	21	Talisman			2	Cuando se juegue una carta que no sea Talisman, puedes jugar a Resplandor de Heka para que esa carta entre en juego sin habilidad hasta la Fase Final. Luego, puedes robar una carta. Si controlas a Heka, puedes robar una carta adicional.	Primer Bloque	Dominios de Ra	
-Ares	shogun_IV_luna_carmesí	11	22	Aliado	Olimpico	2	3	Ares puede atacar cuando entra en juego. En Guerra de Talismanes, una vez por turno, puedes pagar 2 de Oro para cancelar el ataque o bloqueo oponente.	Primer Bloque	Helenica	1
-Diadema Feerica	shogun_IV_luna_carmesí	12	23	Oro				Solo puedes activar una Diadema Feerica por turno. Si controlas 2 o mas Aliados de una misma raza, puedes pagar este Oro para barajar una carta de tu Cementerio en tu Mazo Castillo.	Primer Bloque	Espada Sagrada	
-Hemera	shogun_IV_sol_naciente	13	26	Aliado	Olimpico	1	1	Cuando entra en juego, puedes mirar las tres primeras cartas de tu Mazo Castillo y ordenarlas.	Primer Bloque	Helenica	
-Goblin	shogun_IV_luna_carmesí	13	25	Aliado	Faerie	2	2	Cuando entra en juego, puedes buscar una carta Goblin en tu Mazo Castillo y ponerla en tu Mano. Si tienes 3 o mas cartas Goblin en juego, este Aliado es Imbloqueable.	Primer Bloque	Espada Sagrada	1
-Beleth	shogun_IV_sol_naciente	14	29	Aliado	Desafiante	3	2	Cuando entra en juego, puedes descartar una carta de tu mano para buscar en tu Mazo Castillo un Aliado de raza Desafiante de coste 3 o menos y ponerlo en tu mano.	Primer Bloque	Hijos de Daana	
-Minotauro	shogun_IV_luna_carmesí	14	27	Aliado	Titan	1	2	Este Aliado gana 1 a la fuerza por cada Minotauro en juego.	Primer Bloque	Helenica	
-Tadg El Druida	shogun_IV_luna_carmesí	15	28	Aliado	Defensor	4	2	No puede ser declarado atacante. Cuando entra en juego, puedes mirar las cuatro primeras cartas de tu Mazo Castillo. Luego, puedes poner un Oro o un Aliado Druida en tu Mano y las demas cartas en la parte inferior de tu Mazo Castillo.	Primer Bloque	Hijos de Daana	
-Morrigu	shogun_IV_sol_naciente	15	30	Aliado	Desafiante	2	2	Solo puedes controlar una Morrigu. Una vez por turno, puedes desterrar una carta del cementerio oponente.	Primer Bloque	Hijos de Daana	
-Corff	shogun_IV_sol_naciente	16	32	Aliado	Sombra	1	1	Imbloqueable. Cuando este Aliado es declarado atacante, elige hasta 2 Aliados que lo acompanen para que ganen 1 a la fuerza hasta la Fase Final.	Primer Bloque	Hijos de Daana	
-Zagreus	shogun_IV_luna_carmesí	16	31	Aliado	Olimpico	2	3	Puedes barajar este Aliado en tu Mazo Castillo para anular un Aliado oponente. En tu Fase de Vigilia, si este Aliado esta en tu Cementerio, puedes pagar 4 Oros para jugarlo sin pagar su coste.	Primer Bloque	Helenica	
-Pilar Botero	shogun_IV_sol_naciente	17	34	Oro				En tu Fase de Vigilia, una vez por turno, puedes pagar este Oro y otro Oro que controles para que un Aliado sea Imbloqueable hasta la Fase Final.	Primer Bloque	Hijos de Daana	
-Orcos	shogun_IV_luna_carmesí	17	33	Aliado	Sombra	2	2	Imbloqueable. Puede atacar cuando entra en juego. Cuando hace dano al Mazo Castillo oponente, y controlas 2 o mas Aliados de raza Sombra, puedes botar una carta para robar una carta.	Primer Bloque	Hijos de Daana	
-Joya Amatista	shogun_IV_luna_carmesí	18	35	Oro				Unica. En tu Fase de Vigilia, puedes desterrar este Oro de tu Reserva para jugar un Aliado de tu Cementerio pagando su coste.	Primer Bloque	Hijos de Daana	
-Llamarada Impia	shogun_IV_sol_naciente	18	36	Talisman			6	Destruye todos los Aliados en juego. Luego, cada jugador destierra las dos primeras cartas de su Mazo Castillo.	Primer Bloque	Hijos de Daana	
-Merenptah	shogun_IV_luna_carmesí	19	39	Aliado	Faraon	2	2	Cuando entra en juego, puedes elegir otro Aliado que controles para que sea Imbloqueable hasta la Fase Final. Si ese Aliado hace dano al Mazo Castillo oponente este turno, puedes robar una carta en tu Fase Final.	Primer Bloque	Dominios de Ra	
-Despertar	shogun_IV_luna_carmesí	20	42	Talisman			1	Unica. Mira la mano de tu oponente y descartale un Talisman. Luego, tu oponente puede elegir robar 1 carta, si lo hace, tu robas 2 cartas.	Primer Bloque	Hijos de Daana	1
